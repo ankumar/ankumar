@@ -2,7 +2,7 @@
 
 I stared programming switching software at Bell Labs & at a [startup](https://www.linkedin.com/company/sylantro-systems/about/), worked on [Messenger](https://en.wikipedia.org/wiki/Yahoo!_Messenger) & [Mail](https://en.wikipedia.org/wiki/Yahoo!_Mail) products at **Yahoo!**, Co-Founded SaaS startup **TenHands** based upon [WebRTC](https://webrtc.org/) Open Source on AWS Cloud. I currently work on Transitioning [Walmart.com](https://www.walmart.com/) to [Cloud Native](https://github.com/ankumar/Architecture).
 
-Code: C, C++, Java, Python, currently learning Go. I am also learning to teaching [Programming **autonomous** future](https://github.com/ankumar/Algorithm) 
+Code: C, C++, Java, Python, currently learning Go. I am also learning to teaching [Programming **autonomous** future](https://github.com/ankumar/Autonomous) 
 
 <!--
 **ankumar/ankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
