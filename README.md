@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I stared programming switching software at Bell Labs & at a [startup](https://www.linkedin.com/company/sylantro-systems/about/), worked on [Messenger](https://en.wikipedia.org/wiki/Yahoo!_Messenger) & [Mail](https://en.wikipedia.org/wiki/Yahoo!_Mail) products at Yahoo!, Co-Founded a B2B SaaS startup TenHands based on [WebRTC](https://webrtc.org/) Open Source. I am currently working on Transitioning [Walmart.com](https://www.walmart.com/) to Cloud Native Architecture.
+I stared programming switching software at Bell Labs & at a [startup](https://www.linkedin.com/company/sylantro-systems/about/), worked on [Messenger](https://en.wikipedia.org/wiki/Yahoo!_Messenger) & [Mail](https://en.wikipedia.org/wiki/Yahoo!_Mail) products at **Yahoo!**, Co-Founded a B2B SaaS startup **TenHands** based on [WebRTC](https://webrtc.org/) Open Source. I currently work on Transitioning [Walmart.com](https://www.walmart.com/) to Cloud Native Architecture.
 
 Languages: C, C++, Java, Python, currently learning Go.
 
