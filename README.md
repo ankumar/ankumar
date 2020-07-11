@@ -2,7 +2,7 @@
 
 I stared programming [X.25](https://en.wikipedia.org/wiki/X.25) & IP protocols in switching software at Lucent Bell Labs & at a [startup](https://www.linkedin.com/company/sylantro-systems/about/), worked on [Messenger](https://en.wikipedia.org/wiki/Yahoo!_Messenger) & [Mail](https://en.wikipedia.org/wiki/Yahoo!_Mail) products at **Yahoo!**, Co-Founded SaaS startup [TenHands](https://www.crunchbase.com/organization/tenhands#section-overview) based upon [WebRTC](https://webrtc.org/) Open Source on AWS Cloud. I currently work on [Walmart.com](https://www.walmart.com/) Transitions to [Real Time Retail](https://www.confluent.io/blog/apache-kafka-item-setup/) & [Cloud Native](https://github.com/ankumar/Architecture).
 
-I am Learning w/ my kids [Programming **Autonomous** future](https://github.com/ankumar/Autonomous) 
+I am coding **"reward functions"** w/ my kids [Programming **Autonomous** future](https://github.com/ankumar/Autonomous) 
 
 <!--
 **ankumar/ankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
