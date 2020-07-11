@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I stared programming switching software at Bell Labs & at a [startup](https://www.linkedin.com/company/sylantro-systems/about/), worked on [Messenger](https://en.wikipedia.org/wiki/Yahoo!_Messenger) & [Mail](https://en.wikipedia.org/wiki/Yahoo!_Mail) products at **Yahoo!**, Co-Founded SaaS startup [TenHands](https://www.crunchbase.com/organization/tenhands#section-overview) based upon [WebRTC](https://webrtc.org/) Open Source on AWS Cloud. I currently work on [Walmart.com](https://www.walmart.com/) Transitions to [Cloud Native](https://github.com/ankumar/Architecture).
+I stared programming switching software at Bell Labs & at a [startup](https://www.linkedin.com/company/sylantro-systems/about/), worked on [Messenger](https://en.wikipedia.org/wiki/Yahoo!_Messenger) & [Mail](https://en.wikipedia.org/wiki/Yahoo!_Mail) products at **Yahoo!**, Co-Founded SaaS startup [TenHands](https://www.crunchbase.com/organization/tenhands#section-overview) based upon [WebRTC](https://webrtc.org/) Open Source on AWS Cloud. I currently work on [Walmart.com](https://www.walmart.com/) Transitions to [Steam Processing](https://medium.com/walmartlabs/apache-kafka-for-item-setup-3fe8f4ba5967) [Cloud Native](https://github.com/ankumar/Architecture).
 
 Code: C, C++, Java, Python, currently learning Go. I am also learning to teaching [Programming **autonomous** future](https://github.com/ankumar/Autonomous) 
 
