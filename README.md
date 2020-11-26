@@ -2,6 +2,8 @@
 
 I started professionally programming [X.25](https://en.wikipedia.org/wiki/X.25) & IP based protocols in switching software at Lucent Bell Labs & at a [startup, Sylantro Systems](https://www.linkedin.com/company/sylantro-systems/about/), worked on Mobile & Web [Messenger](https://en.wikipedia.org/wiki/Yahoo!_Messenger) / [Mail](https://en.wikipedia.org/wiki/Yahoo!_Mail) Products at **Yahoo!**, Co-Founded [TenHands](https://www.crunchbase.com/organization/tenhands#section-overview), API's Centric Mobile/Web/Desktop Cloud Services Product Deployed on AWS + Anycast SDN Edge PoP's based on Open Web [WebRTC](https://webrtc.org/) standards & [FreeSWITCH](https://freeswitch.org/) Open Source. Recently worked on [Walmart.com](https://www.walmart.com/) Mobile & Web, [Event-Driven, Real Time Data](https://www.confluent.io/blog/apache-kafka-item-setup/), [Retail Graph](https://medium.com/walmartlabs/retail-graph-walmarts-product-knowledge-graph-6ef7357963bc), Extending OnPrem to Azure & GCP Cloud Native Applications & Services.
 
+https://gitlab.com/an1kumar
+
 **Fun fact:** Learning [**Autonomous** Future](https://github.com/ankumar/Autonomous) 
 
 <!--
