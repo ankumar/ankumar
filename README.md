@@ -4,8 +4,8 @@ I started professionally programming [X.25](https://en.wikipedia.org/wiki/X.25) 
 
 Open Source: 
 
-1. https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS
-2. https://gitlab.com/an1kumar
+1. WebRTC - https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS
+2. Acuity - https://gitlab.com/an1kumar
 
 **Fun fact:** Learning [**Autonomous** Future](https://github.com/ankumar/Autonomous) 
 
