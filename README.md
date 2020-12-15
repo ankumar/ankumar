@@ -7,8 +7,8 @@ Infrastructure as code; bring your own application
 keep it simple. keep it boring. keep it DRY
 
 Open Source:
-1. WebRTC - https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS
-2. Incubating - https://github.com/gneisstech 
+1. Past/WebRTC - https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS
+2. Current/Incubating - https://github.com/gneisstech 
 
 **Fun fact:** Learning [**Autonomous** Future](https://github.com/ankumar/Autonomous) 
 
