@@ -8,7 +8,7 @@ keep it simple. keep it boring. keep it DRY
 
 Open Source:
 1. Past - WebRTC, https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS
-2. Currently - Incubating, https://github.com/gneisstech 
+2. Incubating https://github.com/gneisstech 
 
 **Fun fact:** Learning [**Autonomous** Future](https://github.com/ankumar/Autonomous) 
 
