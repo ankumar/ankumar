@@ -4,8 +4,9 @@ I started Programming [X.25](https://en.wikipedia.org/wiki/X.25) & IP based prot
 
 Recently worked on Mobile & Web [Walmart.com](https://www.walmart.com/), [Real Time Data](https://www.confluent.io/blog/apache-kafka-item-setup/), [Retail Graph](https://medium.com/walmartlabs/retail-graph-walmarts-product-knowledge-graph-6ef7357963bc), Extending open source based OnPrem Infrastructure to Public Cloud Azure & GCP.
 
-1. WebRTC, https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS
-2. Incubating https://github.com/gneisstech 
+Open Source Contributions:
+1. Past WebRTC, https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS
+2. Current, Incubating https://github.com/gneisstech 
 
 **Fun fact:** 
 
