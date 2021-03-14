@@ -7,7 +7,18 @@ Recently worked on [Walmart.com](https://www.walmart.com/) Mobile & Web, Event-D
 1. WebRTC, https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS
 2. Incubating https://github.com/gneisstech 
 
-**Fun fact:** Learning [**Autonomous** Future](https://github.com/ankumar/Autonomous) 
+**Fun fact:** 
+
+1. Learning [**Autonomous** Future](https://github.com/ankumar/Autonomous) 
+2. Trails
+
+* Steven's Creek reservoir
+* Sanborn Park (Saratoga)
+* Quarry Park (Saratoga)
+* Bear Creek Redwoods (Los Gatos - need to get there early)
+* Russian Ridge off Skyline 
+
+
 
 <!--
 **ankumar/ankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
