@@ -11,14 +11,6 @@ Open Source Contributions:
 **Fun fact:** 
 
 1. Trails
-
-* - (Default)
-* Steven's Creek reservoir
-* Sanborn Park (Saratoga)
-* Quarry Park (Saratoga)
-* Bear Creek Redwoods (Los Gatos - need to get there early)
-* Russian Ridge off Skyline 
-
 2. Learning [**Autonomous** Future](https://github.com/ankumar/Autonomous) 
 
 <!--
