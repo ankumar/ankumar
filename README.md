@@ -8,8 +8,6 @@ Open Source Contributions:
 1. Past WebRTC, https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS
 2. Current, Incubating https://github.com/gneisstech 
 
-**Fun fact:** 
-
 https://github.com/ankumar/Fun-Stuff 
 
 <!--
