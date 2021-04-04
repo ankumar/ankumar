@@ -5,8 +5,8 @@ Communications: I started Programming in C/C++ [X.25](https://en.wikipedia.org/w
 eCommerce & Cloud Computing: Recently worked on Mobile & Web [Walmart.com](https://www.walmart.com/), [Real Time Data](https://www.confluent.io/blog/apache-kafka-item-setup/), [Retail Graph](https://medium.com/walmartlabs/retail-graph-walmarts-product-knowledge-graph-6ef7357963bc), Extending open source based OnPrem Infrastructure to Azure & GCP Public Clouds.
 
 Open Source:
-1. Past WebRTC, https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS
-2. Current, Incubating https://github.com/gneisstech 
+1. Past - WebRTC https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS
+2. IoT - Current Incubating https://github.com/gneisstech 
 
 Fun: https://github.com/ankumar/Fun-Stuff 
 
