@@ -6,7 +6,7 @@ eCommerce & Cloud Computing: Drove Changes Mobile & Web [Walmart.com](https://ww
 
 Open Source:
 1. Past - WebRTC, https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS
-2. Current - IoT, Incubating https://github.com/gneisstech 
+2. Current - Incubating Platform Projects https://github.com/gneisstech 
 
 https://github.com/ankumar/Fun-Stuff 
 
