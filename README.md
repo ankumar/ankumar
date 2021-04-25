@@ -4,11 +4,11 @@ Open Source:
 1. Past - WebRTC, https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS
 2. Current - Incubating Platform Projects https://github.com/gneisstech 
 
-eCommerce: Drove Changes in Mobile & Web [Walmart.com](https://www.walmart.com/), [Real Time Data](https://www.confluent.io/blog/apache-kafka-item-setup/), [Retail Graph](https://medium.com/walmartlabs/retail-graph-walmarts-product-knowledge-graph-6ef7357963bc), Extending open source based OnPrem Infrastructure to Azure & GCP Public Clouds.
+**eCommerce:** Drove Changes in Mobile & Web [Walmart.com](https://www.walmart.com/), [Real Time Data](https://www.confluent.io/blog/apache-kafka-item-setup/), [Retail Graph](https://medium.com/walmartlabs/retail-graph-walmarts-product-knowledge-graph-6ef7357963bc), Extending open source based OnPrem Infrastructure to Azure & GCP Public Clouds.
 
-API Product & Cloud Computing: Co-Founded [TenHands](https://twitter.com/an1kumar/status/277200713728274433?s=20), Mobile/Web/Desktop API Cloud Services Product deployed on AWS + Anycast SDN Edge PoP's based on Open Web [WebRTC](https://webrtc.org/) [standards](https://twitter.com/ietf/status/1354071004058951682) & [FreeSWITCH](https://freeswitch.org/) open source. 
+**API Product & Cloud Computing:** Co-Founded [TenHands](https://twitter.com/an1kumar/status/277200713728274433?s=20), Mobile/Web/Desktop API Cloud Services Product deployed on AWS + Anycast SDN Edge PoP's based on Open Web [WebRTC](https://webrtc.org/) [standards](https://twitter.com/ietf/status/1354071004058951682) & [FreeSWITCH](https://freeswitch.org/) open source. 
 
-Communications: I started Programming in C/C++ [X.25](https://en.wikipedia.org/wiki/X.25) & IP based protocols in switching software at Lucent Bell Labs & startup [Sylantro Systems](https://www.linkedin.com/company/sylantro-systems/about/), worked on Web/Mobile [Messenger](https://en.wikipedia.org/wiki/Yahoo!_Messenger) & [Mail](https://en.wikipedia.org/wiki/Yahoo!_Mail) Products at **Yahoo!**.
+**Communications:** I started Programming in C/C++ [X.25](https://en.wikipedia.org/wiki/X.25) & IP based protocols in switching software at Lucent Bell Labs & startup [Sylantro Systems](https://www.linkedin.com/company/sylantro-systems/about/), worked on Web/Mobile [Messenger](https://en.wikipedia.org/wiki/Yahoo!_Messenger) & [Mail](https://en.wikipedia.org/wiki/Yahoo!_Mail) Products at **Yahoo!**.
 
 https://github.com/ankumar/Fun-Stuff 
 
