@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Platform engineering, Acuity Brands | Startups | Co-founded TenHands | http://Walmart.com | Yahoo! | Bell Labs
+
 Open Source:
 1. Past - WebRTC, https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS
 2. Incubating Platform Projects https://github.com/gneisstech 
