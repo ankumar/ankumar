@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Platform engineering, Acuity Brands | Startups | Co-founded TenHands | http://Walmart.com | Yahoo! | Bell Labs
+Platform engineering @ Acuity Brands | Startups | Co-founded TenHands | http://Walmart.com | Yahoo! | Bell Labs
 
 Open Source:
 1. Past - WebRTC, https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS
