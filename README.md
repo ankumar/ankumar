@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Platform engineering @ Acuity Brands | Startups | Co-founded TenHands | http://Walmart.com (>2M employees) | Yahoo! | Bell Labs (Part of AT&T >1M employees)
 
 **eCommerce:** Drove Changes in Mobile & Web [Walmart.com](https://www.walmart.com/), [Real Time Data](https://www.confluent.io/blog/apache-kafka-item-setup/), [Retail Graph](https://medium.com/walmartlabs/retail-graph-walmarts-product-knowledge-graph-6ef7357963bc), Extending open source based OnPrem Infrastructure to Azure & GCP Public Clouds.
