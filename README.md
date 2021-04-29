@@ -6,7 +6,7 @@ Platform engineering @ Acuity Brands | Startups | http://Walmart.com (>2M employ
 
 **Communications:** Started Programming in C/C++ [X.25](https://en.wikipedia.org/wiki/X.25) & IP based protocols in switching software at Lucent Bell Labs & startup [Sylantro Systems](https://www.linkedin.com/company/sylantro-systems/about/), worked on Web/Mobile [Messenger](https://en.wikipedia.org/wiki/Yahoo!_Messenger) & [Mail](https://en.wikipedia.org/wiki/Yahoo!_Mail) Products at **Yahoo!**.
 
-Open Source:
+**Open Source:**
 1. Past - WebRTC, https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS
 2. Incubating Platform Projects https://github.com/gneisstech 
 
