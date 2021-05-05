@@ -4,7 +4,7 @@ Platform engineering @ Acuity Brands | Startups | http://Walmart.com (>2M Associ
 
 **API Product & Cloud Computing:** Co-Founded [TenHands](https://twitter.com/an1kumar/status/277200713728274433?s=20), Pioneering Mobile/Web/Desktop Data/Voice/Video Streaming Cloud Services API Product Deployed on AWS + Anycast SDN Edge PoP's based on Open Web [WebRTC](https://webrtc.org/) [standards](https://twitter.com/ietf/status/1354071004058951682) & [FreeSWITCH](https://freeswitch.org/) open source. 
 
-**Communications:** Programming in C/C++ [X.25](https://en.wikipedia.org/wiki/X.25) & IP based protocols in switching software at Lucent Bell Labs & startup [Sylantro Systems (Transparent Company Strategy on a Monopoly board](https://www.networkworld.com/article/2272062/broadsoft-acquires-sylantro-as-voip-market-consolidates.html), worked on Web/Mobile [Messenger](https://en.wikipedia.org/wiki/Yahoo!_Messenger) & [Mail](https://en.wikipedia.org/wiki/Yahoo!_Mail) Products at **Yahoo!**.
+**Communications:** Programming in C/C++ [X.25](https://en.wikipedia.org/wiki/X.25) & IP based protocols in switching software at Lucent Bell Labs & startup [Sylantro Systems (Transparent Company Strategy on a Monopoly board)](https://www.networkworld.com/article/2272062/broadsoft-acquires-sylantro-as-voip-market-consolidates.html), worked on Web/Mobile [Messenger](https://en.wikipedia.org/wiki/Yahoo!_Messenger) & [Mail](https://en.wikipedia.org/wiki/Yahoo!_Mail) Products at **Yahoo!**.
 
 **Open Source:**
 1. Past WebRTC, https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS
