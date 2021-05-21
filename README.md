@@ -1,9 +1,9 @@
 
 ![ankumar](https://user-images.githubusercontent.com/658791/119079603-43a06d00-b9ad-11eb-806a-d695e2a2ce46.jpg)
 
-Currently Platform engineering @ Acuity Brands | Startups 
+Currently Platform engineering @ Acuity Brands | Startups.
 
-Prev: http://Walmart.com (>2M Associates) | Co-founded TenHands | Yahoo! | Sylantro Systems | Bell Labs (Part of AT&T >1M employees)
+**Prev:** http://Walmart.com (>2M Associates) | Co-founded TenHands | Yahoo! | Sylantro Systems | Bell Labs (Part of AT&T >1M employees)
 
 **eCommerce:** Drove Changes in Mobile & Web [Walmart.com](https://www.walmart.com/), [Real Time Data](https://www.confluent.io/blog/apache-kafka-item-setup/), [Retail Graph](https://medium.com/walmartlabs/retail-graph-walmarts-product-knowledge-graph-6ef7357963bc), We incubated & scaled open source first Tech Stack Memcached/Redis, Kafka, Cassandra, Elastic, Streaming Storm, Spark, Flink, Druid, [distributed SQL](https://blog.starburstdata.com/prestosql-becomes-trino), ... , Extending open source based Private Cloud to Azure & Google Cloud.
 
