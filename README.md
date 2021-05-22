@@ -1,5 +1,4 @@
-
-![ankumar](https://user-images.githubusercontent.com/658791/119079603-43a06d00-b9ad-11eb-806a-d695e2a2ce46.jpg)
+![anilkumar](https://user-images.githubusercontent.com/658791/119208479-2e801880-ba57-11eb-89ee-cb7a3a969b5e.jpg)
 
 Currently Platform engineering @ Acuity Brands | Startups | http://Walmart.com (>2M Associates) | Co-founded TenHands | Yahoo! | Sylantro Systems | Bell Labs (Part of AT&T >1M employees)
 
