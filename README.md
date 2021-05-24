@@ -12,7 +12,7 @@ Currently Platform engineering @ Acuity Brands | Startups | http://Walmart.com (
 1. Past WebRTC, https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS
 2. Incubating Platform Projects https://github.com/gneisstech 
 
-https://github.com/ankumar/Fun-Stuff 
+[Fun-Stuff](https://github.com/ankumar/Fun-Stuff) 
 
 <!--
 **ankumar/ankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
