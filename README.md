@@ -3,7 +3,7 @@
 Currently Platform engineering @ Acuity Brands | Startups | http://Walmart.com (>2M Associates) | Co-founded TenHands | Yahoo! | Sylantro Systems | Bell Labs (Part of AT&T >1M employees)
 
 **1. Open Source:**
-1. Past WebRTC, https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS
+1. WebRTC, https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS
 2. Incubating Platform Projects https://github.com/gneisstech 
 
 **2. eCommerce:** Drove Changes in Mobile & Web [Walmart.com](https://www.walmart.com/), [Real Time Data](https://www.confluent.io/blog/apache-kafka-item-setup/), [Retail Graph](https://medium.com/walmartlabs/retail-graph-walmarts-product-knowledge-graph-6ef7357963bc), Incubated & scaled company-wide open source TechStack Memcached/Redis, Kafka, Cassandra/Elastic, Streaming Storm/Spark/Flink, Druid/[distributed SQL](https://blog.starburstdata.com/prestosql-becomes-trino), ... , Extending open source based Private to Azure & Google Cloud.
