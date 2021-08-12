@@ -3,7 +3,7 @@
 Currently Platform engineering @ Acuity Brands | http://Walmart.com (Large Enterprise, >2M Workforce) | Co-founded TenHands (Startup) | Yahoo! (pioneer of the early Internet) | Sylantro Systems (Startup) | Bell Labs (Large Enterprise, Part of AT&T >1M employees)
 
 **1. Open Source:**
-- WebRTC Contributor https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS 
+- https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS 
 - https://github.com/gneisstech 
 - https://github.com/acuity-sr/bkstg-devops
 
