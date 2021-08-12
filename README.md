@@ -4,7 +4,7 @@ Currently Platform engineering @ Acuity Brands | http://Walmart.com (Large Enter
 
 **1. Open Source:**
 1. WebRTC Contributor https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS
-2. **Incubating:**
+2. 
 - https://github.com/gneisstech 
 - https://github.com/acuity-sr/bkstg-devops
 
