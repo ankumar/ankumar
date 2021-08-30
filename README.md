@@ -11,7 +11,9 @@ Platform engineering @ Acuity Brands | http://Walmart.com (Largest Enterprise, >
 **4. Open Source:**
 - https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS 
 
-**5. Break:** https://github.com/ankumar/Fun-Stuff 
+--
+
+https://github.com/ankumar/Fun-Stuff 
 
 <!--
 **ankumar/ankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
