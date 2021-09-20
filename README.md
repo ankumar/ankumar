@@ -13,10 +13,10 @@ Platform engineering @ Acuity Brands | http://Walmart.com (Largest Enterprise, >
 **5. Open Source:**
 - Code: https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS 
 - Collaboration:
+  - Developer Experience: https://github.com/acuity-sr / https://github.com/tufan-proto / ...
   - Data: https://github.com/open-metadata/OpenMetadata
   - Infrastructure:  https://github.com/gneisstech / ...
-  - Developer Experience: https://github.com/acuity-sr / https://github.com/tufan-proto / ...
-
+  
 --
 
 https://github.com/ankumar/Fun-Stuff 
