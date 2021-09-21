@@ -1,8 +1,7 @@
-http://Walmart.com (Largest Enterprise, >2M Workforce) | Co-founded TenHands (Startup) | Yahoo! (pioneer of the early Internet) | Sylantro Systems (Startup) | Bell Labs (Large Enterprise, Part of AT&T >1M employees)
-
 Currently Platform engineering @ Acuity Brands, Incubating [Backstage open source](https://backstage.io/) based Developer experience integrated with Dev, Compute & Data Cloud Infrastructure for Intelligent Lighting & Controls
 ![anilkumar](https://user-images.githubusercontent.com/658791/119208479-2e801880-ba57-11eb-89ee-cb7a3a969b5e.jpg)
 
+http://Walmart.com (Largest Enterprise, >2M Workforce) | Co-founded TenHands (Startup) | Yahoo! (pioneer of the early Internet) | Sylantro Systems (Startup) | Bell Labs (Large Enterprise, Part of AT&T >1M employees)
 **eCommerce:** Drove Changes in Mobile & Web [Walmart.com](https://www.walmart.com/), [Real Time Data](https://www.confluent.io/blog/apache-kafka-item-setup/), [Retail Graph](https://medium.com/walmartlabs/retail-graph-walmarts-product-knowledge-graph-6ef7357963bc), Incubated & scaled company-wide open source TechStack Memcached/Redis, Kafka, Cassandra/Elastic, Streaming Storm/Spark/Flink, Druid/[Distributed SQL](https://blog.starburstdata.com/prestosql-becomes-trino), ... , Extending open source based Private Cloud to Public Cloud Azure & GCP.
 
 **API Platform:** Co-Founded [TenHands](https://twitter.com/an1kumar/status/277200713728274433?s=20), Pioneering ( 10 years early :thought_balloon: ) Mobile/Web/Desktop Data/Voice/Video Streaming Cloud Services API Product Deployed on AWS & Anycast SDN Edge PoP's based on [WebRTC](https://queue.acm.org/detail.cfm?id=3457587) [standards](https://twitter.com/ietf/status/1354071004058951682) & [FreeSWITCH](https://freeswitch.org/) open source. 
