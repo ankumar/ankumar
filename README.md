@@ -11,8 +11,8 @@ Platform engineering @ Acuity Brands | http://Walmart.com (Largest Enterprise, >
 **4. Communications:** IP based protocol development in switching software at Lucent Bell Labs & startup [Sylantro Systems (Fun fact: Company Strategy on a Monopoly board)](https://www.networkworld.com/article/2272062/broadsoft-acquires-sylantro-as-voip-market-consolidates.html), worked on Web/Mobile [Messenger](https://en.wikipedia.org/wiki/Yahoo!_Messenger) & [Mail](https://en.wikipedia.org/wiki/Yahoo!_Mail) Products at **Yahoo!**.
 
 **5. Open Source:**
-- Code: https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS 
-- Collaboration:
+- **Code:** https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS 
+- **Collaboration:**
   - Developer Experience: https://github.com/acuity-sr / https://github.com/tufan-proto / ...
   - Data: https://github.com/open-metadata/OpenMetadata
   - Infrastructure:  https://github.com/gneisstech / ...
