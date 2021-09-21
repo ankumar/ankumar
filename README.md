@@ -2,7 +2,7 @@
 
 Platform engineering @ Acuity Brands | http://Walmart.com (Largest Enterprise, >2M Workforce) | Co-founded TenHands (Startup) | Yahoo! (pioneer of the early Internet) | Sylantro Systems (Startup) | Bell Labs (Large Enterprise, Part of AT&T >1M employees)
 
-**1. Platform:** Incubating [Backstage open source](https://backstage.io/) based Developer experience integrated with Dev, Compute & Data Cloud Infrastructure 
+**1. IoT:** Incubating [Backstage open source](https://backstage.io/) based Developer experience integrated with Dev, Compute & Data Cloud Infrastructure 
 
 **2. eCommerce:** Drove Changes in Mobile & Web [Walmart.com](https://www.walmart.com/), [Real Time Data](https://www.confluent.io/blog/apache-kafka-item-setup/), [Retail Graph](https://medium.com/walmartlabs/retail-graph-walmarts-product-knowledge-graph-6ef7357963bc), Incubated & scaled company-wide open source TechStack Memcached/Redis, Kafka, Cassandra/Elastic, Streaming Storm/Spark/Flink, Druid/[distributed SQL](https://blog.starburstdata.com/prestosql-becomes-trino), ... , Extending open source based Private Cloud to Public Cloud Azure & GCP.
 
