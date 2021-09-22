@@ -1,5 +1,5 @@
 ![anilkumar](https://user-images.githubusercontent.com/658791/119208479-2e801880-ba57-11eb-89ee-cb7a3a969b5e.jpg)
-<div align="right">**Walmart.com**, Largest Enterprise, >2M Workforce | Co-founded **TenHands** Startup | **Yahoo!**, pioneer of the early Internet | **Sylantro Systems**, Startup | **Bell Labs**, Large Enterprise, Part of AT&T >1M employees</dev>
+-- **Walmart.com**, Largest Enterprise, >2M Workforce | Co-founded **TenHands** Startup | **Yahoo!**, pioneer of the early Internet | **Sylantro Systems**, Startup | **Bell Labs**, Large Enterprise, Part of AT&T >1M employees
 
 Currently Platform engineering @ Acuity Brands, Incubating [Backstage open source](https://backstage.io/) based **Developer experience** integrated with Dev, Compute & Data Cloud Infrastructure for Intelligent Lighting & Controls Business
 
