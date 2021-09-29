@@ -15,11 +15,12 @@ Before **Walmart.com**, Largest Enterprise, >2M Workforce | Co-founded **TenHand
 --
 
 **Open Source:**
-- **Code:** https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS 
 - **Collaboration:**
   - Developer Experience: https://github.com/acuity-sr / https://github.com/tufan-proto / ...
   - Data: https://github.com/open-metadata/OpenMetadata
   - Infrastructure:  https://github.com/gneisstech / ...
+
+- **Code:** https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS 
   
 --
 
