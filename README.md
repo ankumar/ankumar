@@ -6,8 +6,6 @@
 
 Before **Walmart.com**, Largest Enterprise, >2M Workforce | Co-founded **TenHands** Startup | **Yahoo!**, pioneer of the early Internet | **Sylantro Systems**, Startup | **Bell Labs**, Large Enterprise, Part of AT&T >1M employees
 
-**Domains:**
-
 **1.eCommerce:** Drove Changes [Walmart.com](https://www.walmart.com/) Mobile & Web, [Real Time Data](https://www.confluent.io/blog/apache-kafka-item-setup/), [Retail Graph](https://medium.com/walmartlabs/retail-graph-walmarts-product-knowledge-graph-6ef7357963bc), Incubated, scaled company-wide open source TechStack Memcached/Redis, Kafka, Cassandra/Elastic, Streaming Storm/Spark/Flink, Druid/[Distributed SQL](https://blog.starburstdata.com/prestosql-becomes-trino), ... & Extending open source based Private Cloud to Public Cloud Azure & GCP.
 
 **2.Real Time Communications Platform:** Co-Founded [TenHands](https://twitter.com/an1kumar/status/277200713728274433?s=20), Pioneering (10 years early :thought_balloon:  ) Mobile/Web/Desktop Data/Voice/Video Streaming Cloud Services API Product Deployed on AWS & Global Anycast SDN Edge PoP's based on [WebRTC](https://queue.acm.org/detail.cfm?id=3457587) [standards](https://twitter.com/ietf/status/1354071004058951682) & [FreeSWITCH](https://freeswitch.org/) open source. Finally driven by COVID-19 the vision [delivered by Cloudflare](https://blog.cloudflare.com/announcing-our-real-time-communications-platform/) 
