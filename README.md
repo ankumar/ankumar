@@ -1,4 +1,4 @@
-![anilkumar](https://user-images.githubusercontent.com/658791/119208479-2e801880-ba57-11eb-89ee-cb7a3a969b5e.jpg) **Intelligent Lighting & Controls**: Currently Platform engineering @ Acuity Brands. Incubating Dev, Compute & Data Cloud Infrastructure using [Backstage open source](https://backstage.io/) based **Developer UX/DX**. 
+![anilkumar](https://user-images.githubusercontent.com/658791/119208479-2e801880-ba57-11eb-89ee-cb7a3a969b5e.jpg) **Intelligent Lighting & Controls**: Currently Platform engineering @ Acuity Brands. Incubating Dev, Compute & Data Cloud Infrastructure using [Backstage open source](https://backstage.io/) based **UX/DX**. 
 
 --
 
