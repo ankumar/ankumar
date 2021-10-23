@@ -16,7 +16,7 @@ Prev **Walmart.com**, Largest Enterprise, >2M Workforce | Co-founded **TenHands*
 **Open Source:**
 - **Code:** https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS 
 
-- **Collaboration:**
+- **"Low Code/No Code":**
   - Apps: https://github.com/tufan-io/noun-and-verb / ...
   - Data: https://github.com/open-metadata/OpenMetadata
   - Infrastructure:  https://github.com/gneisstech / ...
