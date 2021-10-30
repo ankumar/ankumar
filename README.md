@@ -21,7 +21,7 @@ Prev **Walmart.com**, Largest Enterprise, >2M Workforce | Co-founded **TenHands*
   
 --
 
-https://github.com/ankumar/Fun-Stuff 
+[Trails, Food](https://github.com/ankumar/Fun-Stuff) 
 
 <!--
 **ankumar/ankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
