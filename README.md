@@ -11,7 +11,7 @@ Prev **Walmart.com**, Largest Enterprise, >2M Workforce | Co-founded **TenHands*
 
 **3. Messenger, Mail & SoftSwitch:** [switching software](https://freeswitch.org/confluence/display/FREESWITCH/Glossary#Glossary-Softswitch), IP protocols development at Lucent Bell Labs & startup [Sylantro Systems (Fun fact: Company Strategy on a Monopoly board)](https://www.networkworld.com/article/2272062/broadsoft-acquires-sylantro-as-voip-market-consolidates.html), worked on Web/Mobile [Messenger](https://en.wikipedia.org/wiki/Yahoo!_Messenger) & [Mail](https://en.wikipedia.org/wiki/Yahoo!_Mail) consumer Products at **Yahoo!**.
 
-**Open Source:**
+**4. Open Source:**
 - https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS 
 - https://github.com/tufan-io/noun-and-verb / ...
 - https://github.com/open-metadata/OpenMetadata
