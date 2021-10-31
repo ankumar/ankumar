@@ -10,9 +10,9 @@ Presently advisor to startups by collaborating on opensource listed below & Plat
 --
 
 **Open Source:**
-- https://github.com/tufan-io/noun-and-verb / ...
 - https://github.com/open-metadata/OpenMetadata
-- https://github.com/gneisstech / ...
+- https://github.com/tufan-io/noun-and-verb 
+- https://github.com/gneisstech
 - https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS 
 
 [Trails, Food, Music, Talks](https://github.com/ankumar/Fun-Stuff) 
