@@ -9,9 +9,11 @@ Presently Platform engineering @ [Acuity Brands](https://www.acuitybrands.com/) 
  
 --
 
-**Open Source:**
+**Open Source:** Advisor to startups by collaborating on opensource listed below
 - https://github.com/open-metadata/OpenMetadata
 - https://github.com/tufan-io/noun-and-verb 
+
+--
 - https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS 
 
 **Break:**
