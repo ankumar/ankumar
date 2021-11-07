@@ -9,7 +9,7 @@ Presently Platform engineering @ [Acuity Brands](https://www.acuitybrands.com/) 
  
 --
 
-Advisor to startups by Collaborating on opensource peojects
+Advisor to startups by Collaborating on opensource projects
 - https://github.com/open-metadata/OpenMetadata
 - https://github.com/tufan-io/noun-and-verb 
 
