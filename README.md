@@ -1,4 +1,4 @@
-Presently Platform engineering @ [Acuity Brands](https://www.acuitybrands.com/) Incubating a Developer experience for Devs, SREs & Cloud Infrastructure influenced by [Backstage open source](https://backstage.io/). 
+Presently Platform engineering @ [Acuity Brands](https://www.acuitybrands.com/) Incubating a **Developer experience for Devs, SREs & Cloud Infrastructure.** 
 
 Previously **Walmart.com**, Largest Enterprise >2M Workforce | Co-founded **TenHands** Startup | **Yahoo!**, pioneer of the early Internet | **Sylantro Systems**, Startup | **Bell Labs**, Large Enterprise, Part of AT&T >1M employees
 
