@@ -15,7 +15,6 @@ Advisor to startups by Collaborating on opensource projects
 
 --
 
-**Break:**
 - [Trails, Food, Music, Talks](https://github.com/ankumar/Fun-Stuff) 
 
 <!--
