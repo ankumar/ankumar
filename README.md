@@ -9,7 +9,7 @@
  
 --
 
-Advisor to startups by Collaborating opensource
+Advisor to startups by Collaborating "hands on"
 - https://github.com/open-metadata/OpenMetadata
 - https://github.com/tufan-io/noun-and-verb 
 
