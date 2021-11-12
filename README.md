@@ -7,13 +7,13 @@
 
 **4. Messenger, Mail & SoftSwitch:** [Switching software](https://freeswitch.org/confluence/display/FREESWITCH/Glossary#Glossary-Softswitch), IP protocols development at Lucent **Bell Labs**, Large Enterprise (Part of AT&T >1M Workforce) & startup [Sylantro Systems (Fun fact: Company Strategy on a Monopoly board)](https://www.networkworld.com/article/2272062/broadsoft-acquires-sylantro-as-voip-market-consolidates.html), worked on Web/Mobile [Messenger](https://en.wikipedia.org/wiki/Yahoo!_Messenger) & [Mail](https://en.wikipedia.org/wiki/Yahoo!_Mail) consumer Products at **Yahoo!**, pioneer of the early Internet.
  
---
+---
 
 Advisor to startups by Collaborating "hands on"
 - https://github.com/open-metadata/OpenMetadata
 - https://github.com/tufan-io/noun-and-verb 
 
---
+---
 
 - [Trails, Food, Music, Talks](https://github.com/ankumar/Fun-Stuff) 
 
