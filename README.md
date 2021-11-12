@@ -1,7 +1,5 @@
 
-**1. Smart Spaces & Things:** Presently Platform engineering @ [Acuity Brands](https://www.acuitybrands.com/) Incubating a **Developer experience for Devs, SREs & Cloud Infrastructure.** 
-
-Why?
+**1. Smart Spaces & Things:** Presently Platform engineering @ [Acuity Brands](https://www.acuitybrands.com/) Incubating a **Developer experience for Devs, SREs & Cloud Infrastructure.**, More context:
 * https://www.drawdown.org/sectors/buildings
 * https://atrius.com/why-atrius/
 
