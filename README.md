@@ -2,7 +2,7 @@
 **1. Smart Spaces & Things:** Presently Platform engineering @ [Acuity Brands](https://www.acuitybrands.com/) Incubating Developer Experience for **Devs, SREs & Cloud Infrastructure.**
 * Cloud: https://atrius.com/why-atrius <-> Edge: https://www.distech-controls.com/eclypse / https://www.acuitybrands.com/who-we-are/acuity-brands-lighting
   * Context: Buildings - [Inside is where most people are most of the time](https://www.drawdown.org/sectors/buildings)
-  * Standarads: 
+  * Standards: 
     * [Azure opendigitaltwins](https://github.com/Azure/opendigitaltwins-building)
     * [AWS IoT Things Graph](https://docs.aws.amazon.com/thingsgraph/latest/ug/iot-tg-whatis.html)
 
