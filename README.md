@@ -14,7 +14,7 @@ Lighting](https://www.acuitybrands.com/who-we-are/acuity-brands-lighting)
  
 ---
 
-Advisor to startups by Collaborating "hands on"
+Advisor to startups, Collaborating "hands on"
 - https://github.com/open-metadata/OpenMetadata
 - https://github.com/tufan-io/noun-and-verb 
 
