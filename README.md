@@ -6,7 +6,7 @@
 Lighting](https://www.acuitybrands.com/who-we-are/acuity-brands-lighting)
   * Context: Developer & Open Source - [Developer Tools](https://developer.distech-controls.com/) / [CloudRelay](https://github.com/DistechControls)
 * Internal Platform: Incubating Developer Experience for **Devs, SREs & Cloud Infrastructure.**
-  * Developer Portal & Application Delivery: GitOps ( https://www.gitops.tech/ / https://opengitops.dev/blog/1.0-announcement ) using open source Backstage & Argo CD
+  * Developer Portal & Application Delivery, GitOps ( https://www.gitops.tech/ / https://opengitops.dev/blog/1.0-announcement ) using open source Backstage & Argo CD
   * Decision Intelligence: Pricing, Forecasting etc.
     
 **2. E-commerce:** [Walmart.com](https://www.walmart.com/) ( Largest Enterprise >2M Workforce, closing in #2 [Amazon](https://en.wikipedia.org/wiki/List_of_largest_United_States%E2%80%93based_employers_globally) ), **Unify Stores & eCommerce** Mobile / Web & [Real Time Data](https://www.confluent.io/blog/apache-kafka-item-setup/) / [Retail Graph](https://medium.com/walmartlabs/retail-graph-walmarts-product-knowledge-graph-6ef7357963bc). Incubated & scaled company-wide open source Tech Stack Memcached/Redis, Kafka, Cassandra/Elastic, Streaming Storm/Spark/Flink, Druid/[Distributed SQL](https://blog.starburstdata.com/prestosql-becomes-trino), ... &  Cloud Migration to mix of on-premises/private clouds to Azure & Google Cloud Platform.
