@@ -1,7 +1,7 @@
 
 **1. Smart Spaces & Things:** Presently Platform engineering @ [Acuity Brands](https://www.acuitybrands.com/)
 * New Commerce AB.com, Tools & Analytics
-* Cloud: [ATRIUS](https://atrius.com/why-atrius) <-> Edge & Things: [ECLYPSE](https://www.distech-controls.com/eclypse)
+* [ATRIUS](https://atrius.com/why-atrius) <-> Edge & Things: [ECLYPSE](https://www.distech-controls.com/eclypse)
   * Context: Buildings - [Inside is where most people are most of the time](https://www.drawdown.org/sectors/buildings) / [Acuity Brands
 Lighting](https://www.acuitybrands.com/who-we-are/acuity-brands-lighting)
   * Context: Developer & Open Source - [Developer Tools](https://developer.distech-controls.com/) / [CloudRelay](https://github.com/DistechControls)
