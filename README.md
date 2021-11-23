@@ -1,10 +1,15 @@
 
-**1. Smart Spaces & Things:** Presently Platform engineering @ [Acuity Brands](https://www.acuitybrands.com/) Incubating Developer Experience for **Devs, SREs & Cloud Infrastructure.**
+**1. Smart Spaces & Things:** Presently Platform engineering @ [Acuity Brands](https://www.acuitybrands.com/)
 * Cloud: [ATRIUS](https://atrius.com/why-atrius) <-> Edge & Things: [ECLYPSE](https://www.distech-controls.com/eclypse)
   * Context: Buildings - [Inside is where most people are most of the time](https://www.drawdown.org/sectors/buildings) / [Acuity Brands
 Lighting](https://www.acuitybrands.com/who-we-are/acuity-brands-lighting)
   * Context: Developer & Open Source - [Developer Tools](https://developer.distech-controls.com/) / [CloudRelay](https://github.com/DistechControls)
 * Standards: </>
+
+Internal Platform: Incubating Developer Experience for **Devs, SREs & Cloud Infrastructure.**
+* Developer Portal: 
+* Application Delivery: GitOps ( https://www.gitops.tech/ / https://opengitops.dev/blog/1.0-announcement ) using open source ArgoCD![image](https://user-images.githubusercontent.com/658791/143081707-f7d61487-66b0-40b3-a3f5-e405239cf872.png)
+* Decision Intelligence:
     
 **2. E-commerce:** [Walmart.com](https://www.walmart.com/) ( Largest Enterprise >2M Workforce, closing in #2 [Amazon](https://en.wikipedia.org/wiki/List_of_largest_United_States%E2%80%93based_employers_globally) ), **Unify Stores & eCommerce** Mobile / Web & [Real Time Data](https://www.confluent.io/blog/apache-kafka-item-setup/) / [Retail Graph](https://medium.com/walmartlabs/retail-graph-walmarts-product-knowledge-graph-6ef7357963bc). Incubated & scaled company-wide open source Tech Stack Memcached/Redis, Kafka, Cassandra/Elastic, Streaming Storm/Spark/Flink, Druid/[Distributed SQL](https://blog.starburstdata.com/prestosql-becomes-trino), ... &  Cloud Migration to mix of on-premises/private clouds to Azure & Google Cloud Platform.
 
