@@ -22,7 +22,7 @@ Lighting](https://www.acuitybrands.com/who-we-are/acuity-brands-lighting)
 **4. Messenger, Mail & SoftSwitch:** Lucent **Bell Labs**, Large Enterprise (Part of AT&T >1M Workforce)
 * [Switching software](https://freeswitch.org/confluence/display/FREESWITCH/Glossary#Glossary-Softswitch), IP protocols development
 * Startup [Sylantro Systems (Fun fact: Company Strategy on a Monopoly board)](https://www.networkworld.com/article/2272062/broadsoft-acquires-sylantro-as-voip-market-consolidates.html)
-* worked on Web/Mobile [Messenger](https://en.wikipedia.org/wiki/Yahoo!_Messenger) & [Mail](https://en.wikipedia.org/wiki/Yahoo!_Mail) consumer Products at **Yahoo!**, pioneer of the early Internet.
+* Worked on Web/Mobile [Messenger](https://en.wikipedia.org/wiki/Yahoo!_Messenger) & [Mail](https://en.wikipedia.org/wiki/Yahoo!_Mail) consumer Products at **Yahoo!**, pioneer of the early Internet.
  
 ---
 
