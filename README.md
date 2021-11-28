@@ -8,7 +8,7 @@ Lighting](https://www.acuitybrands.com/who-we-are/acuity-brands-lighting)
 * Internal Platform: Incubating Developer Experience for **Devs, SREs & Cloud Infrastructure.**
   * Developer Portal & Application Delivery - GitOps ( https://www.gitops.tech/ / https://opengitops.dev/blog/1.0-announcement ) using open source Backstage & Argo CD
   * Decision Intelligence - Pricing, Forecasting etc.
-  * More Things to come
+  * + More Things to come
     
 **E-commerce [2013-2020]:** [Walmart.com](https://www.walmart.com/) ( Largest Enterprise >2M Workforce, closing in #2 [Amazon](https://en.wikipedia.org/wiki/List_of_largest_United_States%E2%80%93based_employers_globally) )
 * Unify Stores & eCommerce Mobile / Web 
