@@ -1,5 +1,5 @@
 
-**Smart Spaces & Things[2020-202X]:** Presently Platform engineering @ [Acuity Brands](https://www.acuitybrands.com/)
+**Smart Spaces & Things[2020-]:** Presently Platform engineering @ [Acuity Brands](https://www.acuitybrands.com/)
 * Commerce: AB.com, Tools & Analytics
 * Edge Computing & Things: [ATRIUS](https://atrius.com/why-atrius) <-> [ECLYPSE](https://www.distech-controls.com/eclypse)
   * Context: Buildings - [Inside is where most people are most of the time](https://www.drawdown.org/sectors/buildings) / [Acuity Brands
