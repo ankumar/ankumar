@@ -18,8 +18,8 @@ Lighting](https://www.acuitybrands.com/who-we-are/acuity-brands-lighting)
 * Cloud - Migration to mix on-premises/private clouds to Azure & Google Cloud Platform.
 
 **Real Time Communications Platform [2010-2013]:** Co-Founded startup [TenHands](https://twitter.com/an1kumar/status/277200713728274433?s=20)
-* Pioneering ( 10 years early :thought_balloon:  ) Mobile/Web/Desktop Data/Voice/Video Streaming Cloud Services API Product Deployed on AWS & Global Anycast Network based on [WebRTC](https://queue.acm.org/detail.cfm?id=3457587) [standards](https://twitter.com/ietf/status/1354071004058951682) & [FreeSWITCH](https://freeswitch.org/) open source. **Update 09/30/2021:** Finally, maybe driven by COVID-19? Vision [delivered by Cloudflare](https://blog.cloudflare.com/announcing-our-real-time-communications-platform/)
-* Contributed to [WebRTC Open Source](https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS).
+* Pioneering ( 10 years early :thought_balloon:  ) - Mobile/Web/Desktop Data/Voice/Video Streaming Cloud Services API Product Deployed on AWS & Global Anycast Network based on [WebRTC](https://queue.acm.org/detail.cfm?id=3457587) [standards](https://twitter.com/ietf/status/1354071004058951682) & [FreeSWITCH](https://freeswitch.org/) open source. **Update 09/30/2021:** Finally, maybe driven by COVID-19? Vision [delivered by Cloudflare](https://blog.cloudflare.com/announcing-our-real-time-communications-platform/)
+* Web - Contributed to [WebRTC Open Source](https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS).
 
 **Messenger, Mail & SoftSwitch [1997-2010]:** **Yahoo!**, Sylantro Systems & Lucent **Bell Labs**, Large Enterprise (Part of AT&T >1M Workforce)
 * Worked on Web/Mobile [Messenger](https://en.wikipedia.org/wiki/Yahoo!_Messenger) & [Mail](https://en.wikipedia.org/wiki/Yahoo!_Mail) consumer Products at Yahoo!, pioneer of the early Internet.
