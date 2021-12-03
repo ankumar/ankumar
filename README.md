@@ -5,7 +5,7 @@
   * Context: Buildings - [Inside is where most people are most of the time](https://www.drawdown.org/sectors/buildings) / [Acuity Brands
 Lighting](https://www.acuitybrands.com/who-we-are/acuity-brands-lighting)
   * Context: Developer & Open Source - [Developer Tools](https://developer.distech-controls.com/) / [Cloud APIs](https://github.com/DistechControls/CloudRelay)
-* Internal Platform: Incubating Developer Experience for **Devs, SREs & Cloud Infrastructure.**
+* Internal Platform: Incubating Cloud Integrated Developer Experience for **Devs, SREs & Cloud Infrastructure.**
   * Decision Intelligence - Pricing, Forecasting etc.
   * Developer Portal & Application Delivery  
   * Open source - Backstage, Argo CD GitOps ( https://www.gitops.tech/ / https://opengitops.dev/blog/1.0-announcement ), ...
