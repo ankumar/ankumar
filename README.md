@@ -3,7 +3,7 @@
 - https://github.com/tufan-io/noun-and-verb 
 - https://github.com/open-metadata/OpenMetadata
 - https://chaya.ai/
-- [“you build it, you run it.”](https://www.atlassian.com/incident-management/devops/you-built-it-you-run-it) 
+- Incubating [“you build it, you run it.”](https://www.atlassian.com/incident-management/devops/you-built-it-you-run-it) 
 
 ---
 
