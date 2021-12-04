@@ -1,3 +1,11 @@
+Startups, Collaborating "hands on"
+
+- https://github.com/tufan-io/noun-and-verb 
+- https://github.com/open-metadata/OpenMetadata
+- https://chaya.ai/
+- [“you build it, you run it.”](https://www.atlassian.com/incident-management/devops/you-built-it-you-run-it) 
+
+---
 
 **Smart Spaces & Things [2020-]:** Presently Platform engineering @ [Acuity Brands](https://www.acuitybrands.com/)
 * Commerce: New AB.com, Tools & Analytics
@@ -26,15 +34,6 @@ Lighting](https://www.acuitybrands.com/who-we-are/acuity-brands-lighting)
 * Startup [Sylantro Systems (Fun fact: Company Strategy on a Monopoly board)](https://www.networkworld.com/article/2272062/broadsoft-acquires-sylantro-as-voip-market-consolidates.html)
 * [Switching software](https://freeswitch.org/confluence/display/FREESWITCH/Glossary#Glossary-Softswitch), IP protocols development
  
----
-
-Advisor to startups, Collaborating "hands on"
-
-- https://github.com/tufan-io/noun-and-verb 
-- https://github.com/open-metadata/OpenMetadata
-- https://chaya.ai/
-- [“you build it, you run it.”](https://www.atlassian.com/incident-management/devops/you-built-it-you-run-it) 
-
 ---
 
 - [Trails, Food, Music, Talks](https://github.com/ankumar/Fun-Stuff) 
