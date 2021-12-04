@@ -1,4 +1,4 @@
-## Startups, Collaborating "hands on"
+## Startups
 
 - https://github.com/tufan-io/noun-and-verb 
 - https://github.com/open-metadata/OpenMetadata
