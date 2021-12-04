@@ -1,4 +1,4 @@
-Startups, Collaborating "hands on"
+## Startups, Collaborating "hands on"
 
 - https://github.com/tufan-io/noun-and-verb 
 - https://github.com/open-metadata/OpenMetadata
@@ -6,6 +6,8 @@ Startups, Collaborating "hands on"
 - [“you build it, you run it.”](https://www.atlassian.com/incident-management/devops/you-built-it-you-run-it) 
 
 ---
+
+## Background
 
 **Smart Spaces & Things [2020-]:** Presently Platform engineering @ [Acuity Brands](https://www.acuitybrands.com/)
 * Commerce: New AB.com, Tools & Analytics
