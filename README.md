@@ -5,7 +5,9 @@
 - https://chaya.ai/
 - Incubating [“you build it, you run it.”](https://www.atlassian.com/incident-management/devops/you-built-it-you-run-it) 
 
-## Background - My Journey All Things Distributed started with Switching software protocols development
+## Background
+
+- My Journey All Things Distributed started with Switching software protocols development.
 
 **Smart Spaces & Things [2020-]:** Presently Platform engineering @ [Acuity Brands](https://www.acuitybrands.com/)
 * Commerce: New AB.com, Tools & Analytics
