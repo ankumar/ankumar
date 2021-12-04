@@ -36,7 +36,7 @@ Lighting](https://www.acuitybrands.com/who-we-are/acuity-brands-lighting)
  
 ---
 
-- [Trails, Food, Music, Talks](https://github.com/ankumar/Fun-Stuff) 
+- [Trails, Food, Music, ...](https://github.com/ankumar/Fun-Stuff) 
 
 <!--
 **ankumar/ankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
