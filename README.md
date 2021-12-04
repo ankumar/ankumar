@@ -29,10 +29,11 @@ Lighting](https://www.acuitybrands.com/who-we-are/acuity-brands-lighting)
 ---
 
 Advisor to startups, Collaborating "hands on"
-- [“you build it, you run it.”](https://www.atlassian.com/incident-management/devops/you-built-it-you-run-it) Skills Development
-- https://github.com/open-metadata/OpenMetadata
+
 - https://github.com/tufan-io/noun-and-verb 
+- https://github.com/open-metadata/OpenMetadata
 - https://chaya.ai/
+- [“you build it, you run it.”](https://www.atlassian.com/incident-management/devops/you-built-it-you-run-it) 
 
 ---
 
