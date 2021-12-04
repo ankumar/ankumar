@@ -7,7 +7,7 @@
 
 ## Background
 
-- My Journey All Things Distributed started with Switching software protocols development.
+My Journey All Things Distributed started with Switching software protocols development.
 
 **Smart Spaces & Things [2020-]:** Presently Platform engineering @ [Acuity Brands](https://www.acuitybrands.com/)
 * Commerce: New AB.com, Tools & Analytics
