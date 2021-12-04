@@ -32,7 +32,7 @@ Advisor to startups, Collaborating "hands on"
 - [“you build it, you run it.”](https://www.atlassian.com/incident-management/devops/you-built-it-you-run-it) Skills Development
 - https://github.com/open-metadata/OpenMetadata
 - https://github.com/tufan-io/noun-and-verb 
-- Notebook based Integrated Developer Experience for ML development
+- https://chaya.ai/
 
 ---
 
