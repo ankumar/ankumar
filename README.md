@@ -5,8 +5,6 @@
 - https://chaya.ai/
 - Incubating [“you build it, you run it.”](https://www.atlassian.com/incident-management/devops/you-built-it-you-run-it) 
 
----
-
 ## Background
 
 **Smart Spaces & Things [2020-]:** Presently Platform engineering @ [Acuity Brands](https://www.acuitybrands.com/)
