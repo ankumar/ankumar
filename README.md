@@ -34,7 +34,7 @@ Lighting](https://www.acuitybrands.com/who-we-are/acuity-brands-lighting)
   * Decision Intelligence - Pricing, Forecasting etc.
   * Developer Portal & Application Delivery  
   * Open source - Backstage(+ https://jupyter.org/), Argo CD GitOps ( https://www.gitops.tech/ / https://opengitops.dev/blog/1.0-announcement ), ...
-  * \+ More Things to come
+  * \+ More Things to come, things beyond the adjacent 
     
 ---
 
