@@ -5,7 +5,7 @@
 - https://chaya.ai/
 - Incubating, Building Teams
   - [Distributed & Onboarding]()
-  - [DevOps - “you build it, you run it.”](https://www.atlassian.com/incident-management/devops/you-built-it-you-run-it) 
+  - [DevOps & “you build it, you run it.”](https://www.atlassian.com/incident-management/devops/you-built-it-you-run-it) 
 
 ## Background
 
