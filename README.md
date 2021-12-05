@@ -34,7 +34,7 @@ Lighting](https://www.acuitybrands.com/who-we-are/acuity-brands-lighting)
 **Messenger, Mail & SoftSwitch [1997-2010]:** **Yahoo!**, Sylantro Systems & Lucent **Bell Labs**, Large Enterprise (Part of AT&T >1M Workforce)
 * Worked on Web/Mobile [Messenger](https://en.wikipedia.org/wiki/Yahoo!_Messenger) & [Mail](https://en.wikipedia.org/wiki/Yahoo!_Mail) consumer Products at Yahoo!, pioneer of the early Internet.
 * Startup [Sylantro Systems (Fun fact: Company Strategy on a Monopoly board)](https://www.networkworld.com/article/2272062/broadsoft-acquires-sylantro-as-voip-market-consolidates.html)
-* My Journey All Things Distributed started with [Switching software](https://freeswitch.org/confluence/display/FREESWITCH/Glossary#Glossary-Softswitch), IP protocols development
+* My Journey Things Distributed started with [Switching software](https://freeswitch.org/confluence/display/FREESWITCH/Glossary#Glossary-Softswitch), IP protocols development
  
 ---
 
