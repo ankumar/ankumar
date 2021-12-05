@@ -4,7 +4,7 @@
 - https://github.com/open-metadata/OpenMetadata
 - https://chaya.ai/
 - Incubating, Building Teams
-  - [Onboarding]()
+  - [Distributed Onboarding]()
   - [DevOps - “you build it, you run it.”](https://www.atlassian.com/incident-management/devops/you-built-it-you-run-it) 
 
 ## Background
