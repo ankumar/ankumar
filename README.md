@@ -18,7 +18,7 @@ Lighting](https://www.acuitybrands.com/who-we-are/acuity-brands-lighting)
 * Internal Platform: Incubating Integrated Developer Experience for **Devs, SREs & Cloud Infrastructure.**
   * Decision Intelligence - Pricing, Forecasting etc.
   * Developer Portal & Application Delivery  
-  * Open source - Backstage, Argo CD GitOps ( https://www.gitops.tech/ / https://opengitops.dev/blog/1.0-announcement ), ...
+  * Open source - Backstage(+ https://jupyter.org/), Argo CD GitOps ( https://www.gitops.tech/ / https://opengitops.dev/blog/1.0-announcement ), ...
   * \+ More Things to come
     
 **E-commerce [2013-2020]:** [Walmart.com](https://www.walmart.com/) ( Largest Enterprise >2M Workforce, closing in #2 [Amazon](https://en.wikipedia.org/wiki/List_of_largest_United_States%E2%80%93based_employers_globally) )
