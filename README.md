@@ -10,9 +10,9 @@
 ## Background - Mostly Archives for my cognitive decline :unamused:
 
 **Messenger, Mail & SoftSwitch [1997-2010]:** **Yahoo!**, Sylantro Systems & Lucent **Bell Labs**, Large Enterprise (Part of AT&T >1M Workforce)
-* Worked on Web/Mobile [Messenger](https://en.wikipedia.org/wiki/Yahoo!_Messenger) & [Mail](https://en.wikipedia.org/wiki/Yahoo!_Mail) consumer Products at Yahoo!, pioneer of the early Internet.
-* Startup [Sylantro Systems (Fun fact: Company Strategy on a Monopoly board)](https://www.networkworld.com/article/2272062/broadsoft-acquires-sylantro-as-voip-market-consolidates.html)
 * My Journey Things Distributed started with [Switching software](https://freeswitch.org/confluence/display/FREESWITCH/Glossary#Glossary-Softswitch), IP protocols development (OverLAN project / X.25 -> TCP/IP)
+* Startup [Sylantro Systems (Fun fact: Company Strategy on a Monopoly board)](https://www.networkworld.com/article/2272062/broadsoft-acquires-sylantro-as-voip-market-consolidates.html)
+* Worked on Web/Mobile [Messenger](https://en.wikipedia.org/wiki/Yahoo!_Messenger) & [Mail](https://en.wikipedia.org/wiki/Yahoo!_Mail) consumer Products at Yahoo!, pioneer of the early Internet.
 
 **Real Time Communications Platform [2010-2013]:** Co-Founded startup [TenHands](https://twitter.com/an1kumar/status/277200713728274433?s=20)
 * Pioneering ( 10 years early :thought_balloon:  ) - Mobile/Web/Desktop Data/Voice/Video Streaming Cloud Services API Product Deployed on AWS & Global Anycast Network based on [WebRTC](https://queue.acm.org/detail.cfm?id=3457587) [standards](https://twitter.com/ietf/status/1354071004058951682) & [FreeSWITCH](https://freeswitch.org/) open source. **Update 09/30/2021:** Finally, maybe driven by COVID-19? Vision [delivered by Cloudflare](https://blog.cloudflare.com/announcing-our-real-time-communications-platform/)
