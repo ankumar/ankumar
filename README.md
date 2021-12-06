@@ -1,9 +1,9 @@
 ## Startups & Collaboration
 
-- https://github.com/tufan-io/noun-and-verb 
-- https://github.com/open-metadata/OpenMetadata
-- https://chaya.ai/
-- Incubating
+- https://github.com/tufan-io/noun-and-verb (Private)
+- https://github.com/open-metadata/OpenMetadata (Public)
+- https://chaya.ai/ (Private)
+- Incubating (Private)
   - [Distributed & Onboarding]()
   - [DevOps & “you build it, you run it.”](https://www.atlassian.com/incident-management/devops/you-built-it-you-run-it) 
 
