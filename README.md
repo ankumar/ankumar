@@ -7,7 +7,7 @@
   - [Distributed & Onboarding]()
   - [DevOps & “you build it, you run it.”](https://www.atlassian.com/incident-management/devops/you-built-it-you-run-it) 
 
-## Background - Mostly Archives for my cognitive decline :unamused:
+## Background - Mostly Archives for my reminiscing someday :unamused:
 
 **Messenger, Mail & SoftSwitch [1997-2010]:** **Yahoo!**, Sylantro Systems & Lucent **Bell Labs**, Large Enterprise (Part of AT&T >1M Workforce)
 * My Journey Things Distributed started with [Switching software](https://freeswitch.org/confluence/display/FREESWITCH/Glossary#Glossary-Softswitch), IP protocols development (OverLAN project / X.25 -> TCP/IP)
