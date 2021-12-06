@@ -33,7 +33,7 @@ Lighting](https://www.acuitybrands.com/who-we-are/acuity-brands-lighting)
 * Internal Platform: Incubating Integrated Developer Experience for **Devs, SREs & Cloud Infrastructure.**
   * Decision Intelligence - Pricing, Forecasting etc.
   * Developer Portal & Application Delivery  
-  * Open source - Backstage(+ https://jupyter.org/), Argo CD GitOps ( https://www.gitops.tech/ / https://opengitops.dev/blog/1.0-announcement ), ...
+  * Open source - Backstage(+ [Notebooks](https://jupyter.org/)), Argo CD GitOps ( https://www.gitops.tech/ / https://opengitops.dev/blog/1.0-announcement ), ...
   * \+ More Things to come, things beyond the adjacent 
     
 ---
