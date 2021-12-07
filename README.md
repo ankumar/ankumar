@@ -19,7 +19,7 @@
 * Open Web Standards - Contributed to [WebRTC Open Source](https://chromium.googlesource.com/external/webrtc/+/master/AUTHORS#23).
 
 **E-commerce [2013-2020]:** [Walmart.com](https://www.walmart.com/) ( Largest Enterprise >2M Workforce, closing in #2 [Amazon](https://en.wikipedia.org/wiki/List_of_largest_United_States%E2%80%93based_employers_globally) )
-* Mobile / Web - Unify eCommerce & Stores Teams & Systems
+* Mobile / Web - Unify eCommerce & Stores People, Process & Systems
 * Item Setup & Serving - [Real Time Data](https://www.confluent.io/blog/apache-kafka-item-setup/) / [Retail Graph (Experimental)](https://medium.com/walmartlabs/retail-graph-walmarts-product-knowledge-graph-6ef7357963bc)
 * Open Source - Incubated & scaled company-wide open source Tech Stack Memcached/Redis, Kafka, Cassandra/Elastic, Streaming Storm/Spark/Flink, Druid/[Distributed SQL](https://blog.starburstdata.com/prestosql-becomes-trino), ...
 * Cloud - Migration to mix on-premises/private clouds to Azure (Sites) & Google Cloud Platform (Data workloads).
