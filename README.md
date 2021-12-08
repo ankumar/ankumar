@@ -7,6 +7,10 @@
   - [Distributed & Onboarding]()
   - [DevOps & “you build it, you run it.”](https://www.atlassian.com/incident-management/devops/you-built-it-you-run-it) 
 
+---
+
+- [Trails, Food, Music, ...](https://github.com/ankumar/Fun-Stuff) 
+
 ## Background - Mostly Archives for reminiscing :unamused:
 
 **Messenger, Mail & SoftSwitch [1997-2010]:** **Yahoo!**, Sylantro Systems & Lucent **Bell Labs**, Large Enterprise (Part of AT&T >1M Workforce)
@@ -36,9 +40,7 @@ Lighting](https://www.acuitybrands.com/who-we-are/acuity-brands-lighting)
   * Open source - Backstage(+ [Notebooks](https://jupyter.org/)), Argo CD GitOps ( https://www.gitops.tech/ / https://opengitops.dev/blog/1.0-announcement ), ...
   * \+ More Things to come, things beyond the adjacent 
     
----
 
-- [Trails, Food, Music, ...](https://github.com/ankumar/Fun-Stuff) 
 
 <!--
 **ankumar/ankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
