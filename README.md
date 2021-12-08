@@ -11,6 +11,8 @@
 
 - [Trails, Food, Music, ...](https://github.com/ankumar/Fun-Stuff) 
 
+---
+
 ## Background - Mostly Archives for reminiscing :unamused:
 
 **Messenger, Mail & SoftSwitch [1997-2010]:** **Yahoo!**, Sylantro Systems & Lucent **Bell Labs**, Large Enterprise (Part of AT&T >1M Workforce)
