@@ -1,4 +1,4 @@
-## Startups & Collaboration
+## Startups & Collaboration - +More Things to come, things beyond the adjacent 
 
 “Open standards are the best way to make sure that everybody in the industry is involved in setting the direction of technology in our industry.”
 
@@ -40,10 +40,7 @@ Lighting](https://www.acuitybrands.com/who-we-are/acuity-brands-lighting)
   * Decision Intelligence - Pricing, Forecasting etc.
   * Developer Portal & Application Delivery  
   * Open source - Backstage(+ [Notebooks](https://jupyter.org/)), Argo CD GitOps ( https://www.gitops.tech/ / https://opengitops.dev/blog/1.0-announcement ), ...
-  * \+ More Things to come, things beyond the adjacent 
-    
-
-
+  
 <!--
 **ankumar/ankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
