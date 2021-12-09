@@ -1,4 +1,4 @@
-## Startups & Collaboration - +More Things to come, things beyond the adjacent 
+## Startups & Collaboration - (+) More Things to come, things beyond the adjacent 
 
 “Open standards are the best way to make sure that everybody in the industry is involved in setting the direction of technology in our industry.”
 
