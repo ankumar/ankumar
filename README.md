@@ -6,8 +6,8 @@
 - https://github.com/open-metadata/OpenMetadata (Open Source)
 - https://chaya.ai/ (Private)
 - Incubating (Private)
-  - [Distributed & Onboarding]()
-  - [DevOps & “you build it, you run it.”](https://www.atlassian.com/incident-management/devops/you-built-it-you-run-it) 
+  - Distributed & Onboarding - </>
+  - DevOps & “you build it, you run it.” - https://www.atlassian.com/incident-management/devops/you-built-it-you-run-it 
 
 ---
 
