@@ -5,10 +5,6 @@
 - https://github.com/tufan-io/noun-and-verb (Private)
 - https://github.com/open-metadata/OpenMetadata (Open Source)
 - https://chaya.ai/ (Private)
-- Incubating (Private)
-  - Distributed & Flow - </>
-  - Dev + Ops + Security + Cost Insights - [It’s been 13 years since “you build it, you run it.” Did it deliver on its promises?](https://www.atlassian.com/incident-management/devops/you-built-it-you-run-it)
-    - https://www.devops-research.com/research.html 
 
 ---
 
