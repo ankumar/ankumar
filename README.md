@@ -5,7 +5,7 @@
 Exploring new ways to collaborate:
 - https://github.com/tufan-io/noun-and-verb (Private)
 - https://github.com/open-metadata/OpenMetadata (Open Source)
-- https://chaya.ai/ (Private)
+- https://chaya.ai/ (Private, Open Sourced soon!)
 
 ---
 
