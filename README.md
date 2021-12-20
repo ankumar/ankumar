@@ -4,7 +4,7 @@
 
 Integrated Developer Experience:
 - Applications - https://github.com/tufan-io/noun-and-verb (Private)
-- Data - https://chaya.ai/ (Private, Open Source soon!)
+- ML & Data - https://chaya.ai/ (Private, Open Source soon!)
 - Metadata - https://github.com/open-metadata/OpenMetadata (Open Source)
 
 ---
