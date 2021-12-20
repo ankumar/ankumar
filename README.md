@@ -2,7 +2,7 @@
 
 “Open standards are the best way to make sure that everybody in the industry is involved in setting the direction of technology in our industry.”
 
-Exploring new ways to collaborate:
+Integrated Developer Experience:
 - https://github.com/tufan-io/noun-and-verb (Private)
 - https://github.com/open-metadata/OpenMetadata (Open Source)
 - https://chaya.ai/ (Private, Open Source soon!)
