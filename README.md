@@ -2,7 +2,7 @@
 
 “Open standards are the best way to make sure that everybody in the industry is involved in setting the direction of technology in our industry.”
 
-Integrated Developer Experience:
+[Open Software Design](https://notes.ceilfors.com/Open_software_design.html):
 - Applications & Data - https://github.com/tufan-io/noun-and-verb (Private)
 - ML & Data - https://chaya.ai/ (Private, Open Source soon!)
 - Meta Data - https://github.com/open-metadata/OpenMetadata (Open Source)
