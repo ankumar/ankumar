@@ -38,7 +38,7 @@ Lighting](https://www.acuitybrands.com/who-we-are/acuity-brands-lighting)
 * Internal Platform: Incubating Integrated Developer Experience for **Devs, SREs & Cloud Infrastructure.**
   * Decision Intelligence - Pricing, Forecasting etc.
   * Developer Portal & Application Delivery  
-  * Open source - Backstage(+ [Notebooks](https://jupyter.org/)), Argo CD GitOps ( https://www.gitops.tech/ / https://opengitops.dev/blog/1.0-announcement ), ...
+  * Open source - Backstage(+ [Notebooks](https://jupyter.org/)) & Argo CD GitOps
   
 <!--
 **ankumar/ankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
