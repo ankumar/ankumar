@@ -4,7 +4,7 @@
 
 - Applications & Data - https://github.com/tufan-io/noun-and-verb (Private)
 - ML & Data - https://chaya.ai/ (Private, Open Source soon!)
-- Meta Data - https://github.com/open-metadata/OpenMetadata (Open Source)
+- MetaData - https://github.com/open-metadata/OpenMetadata (Open Source)
 
 ---
 
