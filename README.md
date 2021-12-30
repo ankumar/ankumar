@@ -26,6 +26,7 @@
 **E-commerce [2013-2020]:** [Walmart.com](https://www.walmart.com/) ( Largest Enterprise >2M Workforce, closing in #2 [Amazon](https://en.wikipedia.org/wiki/List_of_largest_United_States%E2%80%93based_employers_globally) )
 * Mobile / Web - Unify & Grow People, Process & Systems, eCommerce & Stores 
 * Item Setup & Serving - [Real Time Data](https://www.confluent.io/blog/apache-kafka-item-setup/) / [Retail Graph (Experimental)](https://medium.com/walmartlabs/retail-graph-walmarts-product-knowledge-graph-6ef7357963bc)
+* Inner Source - [An open source community behind your firewall](https://resources.github.com/whitepapers/introduction-to-innersource/)
 * Open Source - Incubated & scaled company-wide open source Tech Stack Memcached/Redis, Kafka, Cassandra/Elastic, Streaming Storm/Spark/Flink, Druid/[Distributed SQL](https://blog.starburstdata.com/prestosql-becomes-trino), ...
 * Cloud - Migration to mix on-premises/private clouds to Azure (Sites) & Google Cloud Platform (Data workloads).
  
