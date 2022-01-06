@@ -3,7 +3,7 @@
 “Open standards are the best way to make sure that everybody in the industry is involved in setting the direction of technology in our industry.”
 
 - Apps - https://github.com/tufan-io/noun_and_verb
-- ML Development -  (Private, Open Source soon!)
+- ML Development - https://app.chaya.ai/ (Private, Open Source soon!)
 - Meta Data - https://github.com/open-metadata/OpenMetadata (Open Source)
 
 ---
