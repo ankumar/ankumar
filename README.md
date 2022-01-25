@@ -1,4 +1,4 @@
-## Collaboration ( + More Things to come, things beyond the adjacent )
+## Collaboration - More Things to come, things beyond the adjacent 
 
 “Open standards are the best way to make sure that everybody in the industry is involved in setting the direction of technology in our industry.”
 
@@ -12,7 +12,7 @@
 
 ---
 
-### Background - Mostly Archiving for personal reminiscing :unamused:
+## Background - Mostly Archiving for personal reminiscing :unamused:
 
 **Messenger, Mail & SoftSwitch [1997-2010]:** **Yahoo!**, Sylantro Systems & Lucent **Bell Labs**, Large Enterprise (Part of AT&T >1M Workforce)
 * My Software Driven World started with [Switching software](https://freeswitch.org/confluence/display/FREESWITCH/Glossary#Glossary-Softswitch), IP protocols development (OverLAN project / X.25 -> TCP/IP -> VoIP)
