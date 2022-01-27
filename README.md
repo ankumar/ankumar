@@ -4,7 +4,7 @@
 
 - Application Development - https://github.com/tufan-io/noun_and_verb
 - Machine Learning Development - https://app.chaya.ai/ (Private, Open Source soon!)
-- Meta Data - https://github.com/open-metadata/OpenMetadata (Open Source)
+- Meta Data Management - https://github.com/open-metadata/OpenMetadata (Open Source)
 
 ---
 
