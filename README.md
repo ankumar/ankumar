@@ -29,6 +29,7 @@
 * Inner Source - [An open source community behind your firewall](https://resources.github.com/whitepapers/introduction-to-innersource/)
 * Open Source - Incubated & scaled company-wide open source Tech Stack Memcached/Redis, Kafka, Cassandra/Elastic, Streaming Storm/Spark/Flink, Druid/[Distributed SQL](https://blog.starburstdata.com/prestosql-becomes-trino), ...
 > digital transformation at Walmart and the real-time benifits with using Kafka such as checking inventory, fufillment, secuirty and fraud. https://www.youtube.com/watch?v=9V-dcwORE7g 
+
 > The Walmart team has been running #cassandra at scale for a long time and are real pros at operations. Great article to learn from. https://twitter.com/PatrickMcFadin/status/1490373516394655745
 
 * Cloud - Migration to mix on-premises/private clouds to Azure (Sites) & Google Cloud Platform (Data workloads).
