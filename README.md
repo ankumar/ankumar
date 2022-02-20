@@ -1,4 +1,4 @@
-1. Improving things, problem solving usng boring & novel.
+1. Improving things, problem solving boring & novel.
 2. Related to above #1, Working on framing & empathy to things built in the past (brownfield).
 3. Introspective, and driven to continuously improve myself.
 4. I feel an extreme sense of urgency in anything I do.
