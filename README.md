@@ -1,5 +1,11 @@
-## Collaboration - More Things to come, things beyond the adjacent 
+1. Improving things, problem solving usng boring & novel.
+2. Related to above #1, Working on framing & empathy to things built in the past (brownfield).
+3. Introspective, and driven to continuously improve myself.
+4. I feel an extreme sense of urgency in anything I do.
+5. Avoid back-to-back meetings, Prefer in-person conversations > video calls > phone calls > emails & texts.
 
+6. Collaborating outside the company, Love Open Source Model.
+ 
 “Open standards are the best way to make sure that everybody in the industry is involved in setting the direction of technology in our industry.”
 
 - Application Development - https://github.com/tufan-io/noun_and_verb (Private, Open Source soon!)
