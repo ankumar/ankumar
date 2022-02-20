@@ -4,7 +4,7 @@
 4. I feel an extreme sense of urgency in anything I do.
 5. Avoid back-to-back meetings, Prefer in-person conversations > video calls > phone calls > emails & texts.
 
-6. Collaborating outside the company, Love Open Source Model.
+6. Collaborating outside the company, Love Open Core Model.
  
 “Open standards are the best way to make sure that everybody in the industry is involved in setting the direction of technology in our industry.”
 
