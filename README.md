@@ -1,5 +1,5 @@
 1. Improving things, boring & novel.
-2. Related to above #1, Working on framing & empathy to things built in the past (brownfield).
+2. Related to above #1, empathy to things built in the past (brownfield).
 3. Introspective, and driven to continuously improve myself.
 4. I feel an extreme sense of urgency in anything I do.
 5. Avoid back-to-back meetings, Prefer in-person conversations > video calls > phone calls > emails & texts.
