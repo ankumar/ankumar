@@ -3,8 +3,9 @@
 3. Introspective, and driven to continuously improve myself.
 4. I feel an extreme sense of urgency in anything I do.
 5. Avoid back-to-back meetings, Prefer in-person conversations > video calls > phone calls > emails & texts.
+6. Open software design
 
-6. Love Open Core Model, Collaborating outside the company, 
+7. Love Open Core Model, Collaborating outside the company, 
  
 “Open standards are the best way to make sure that everybody in the industry is involved in setting the direction of technology in our industry.”
 - Application Development - https://github.com/tufan-io/noun_and_verb (Private, Open Source soon!)
