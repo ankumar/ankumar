@@ -3,7 +3,7 @@
 3. Introspective, and driven to continuously improve myself.
 4. I feel an extreme sense of urgency in anything I do.
 5. Avoid back-to-back meetings, Prefer in-person conversations > video calls > phone calls > emails & texts.
-6. Open software design
+6. Open software design nuturing exchange of ideas
 
 7. Love Open Core Model, Collaborating outside the company, 
  
