@@ -14,6 +14,8 @@
 
 ---
 
+### Fun:
+
 - [Trails, Food, Music, ...](https://github.com/ankumar/Fun-Stuff) 
 
 ---
