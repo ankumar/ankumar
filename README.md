@@ -1,11 +1,12 @@
-1. Improving things, boring & novel.
-2. Related to above #1, empathy to things built in the past (brownfield).
-3. Introspective, and driven to continuously improve myself.
-4. I feel an extreme sense of urgency in anything I do.
-5. Avoid back-to-back meetings, Prefer in-person conversations > video calls > phone calls > emails & texts.
-6. Open software design enabling exchange of ideas.
+1. "Stay Hungry. Stay Foolish".
+2. Improving things, boring & novel.
+3. Related to above #1, empathy to things built in the past (brownfield).
+4. Introspective, and driven to continuously improve myself.
+5. I feel an extreme sense of urgency in anything I do.
+6. Avoid back-to-back meetings, Prefer in-person conversations > video calls > phone calls > emails & texts.
+7. Open software design enabling exchange of ideas.
 
-7. Love Open Core Model, Collaborating outside the company, 
+8. Love Open Core Model, Collaborating outside the company, 
  
 “Open standards are the best way to make sure that everybody in the industry is involved in setting the direction of technology in our industry.”
 - Application Development - https://github.com/tufan-io/noun_and_verb (Private, Open Source soon!)
