@@ -1,6 +1,6 @@
-1. "Stay Hungry. Stay Foolish".
-2. Improving things, boring & novel.
-3. Related to above #1, empathy to things built in the past (brownfield).
+1. Improving things, boring & novel.
+2. Related to above #1, empathy to things built in the past (brownfield).
+3. "Stay Hungry. Stay Foolish".
 4. Introspective, and driven to continuously improve myself.
 5. I feel an extreme sense of urgency in anything I do.
 6. Avoid back-to-back meetings, Prefer in-person conversations > video calls > phone calls > emails & texts.
