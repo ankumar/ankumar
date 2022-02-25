@@ -43,7 +43,7 @@
 
 > The Walmart team has been running #cassandra at scale for a long time and are real pros at operations. Great article to learn from. https://twitter.com/PatrickMcFadin/status/1490373516394655745
 
-* Machine Learning Development - Incubated migration of OnPrem data to Google Cloud Platform & leverage Managed Cloud Services like BigQuery.
+* Machine Learning Development - Incubated sync/migration of On Premises data to Google Cloud Platform & leverage Managed Cloud Services like BigQuery.
 
  **Smart Spaces & Things [2020-]:** Presently Platform engineering @ [Acuity Brands](https://www.acuitybrands.com/)
 * Commerce: New AB.com, Tools & Analytics
