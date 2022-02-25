@@ -40,10 +40,11 @@
 * Cloud - Migration to mix on-premises/private clouds to Azure (Sites) & Google Cloud Platform (Data workloads).
 
 > digital transformation at Walmart and the real-time benifits with using Kafka such as checking inventory, fufillment, security and fraud. https://www.youtube.com/watch?v=9V-dcwORE7g 
-* Machine Learning Development - Incubated migration of OnPrem data to Google Cloud Platform & leverage Managed Cloud Services like BigQuery.
 
 > The Walmart team has been running #cassandra at scale for a long time and are real pros at operations. Great article to learn from. https://twitter.com/PatrickMcFadin/status/1490373516394655745
- 
+
+* Machine Learning Development - Incubated migration of OnPrem data to Google Cloud Platform & leverage Managed Cloud Services like BigQuery.
+
  **Smart Spaces & Things [2020-]:** Presently Platform engineering @ [Acuity Brands](https://www.acuitybrands.com/)
 * Commerce: New AB.com, Tools & Analytics
 * Sense (See) Think Act: [ATRIUS](https://atrius.com/why-atrius) <-> [ECLYPSE](https://www.distech-controls.com/eclypse)
