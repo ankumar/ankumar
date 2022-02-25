@@ -37,12 +37,12 @@
 * Item Setup & Serving - [Real Time Data](https://www.confluent.io/blog/apache-kafka-item-setup/) / [Retail Graph (Experimental)](https://medium.com/walmartlabs/retail-graph-walmarts-product-knowledge-graph-6ef7357963bc)
 * Inner Source - [An open source community behind your firewall](https://resources.github.com/whitepapers/introduction-to-innersource/)
 * Open Source - Incubated & scaled company-wide open source Tech Stack Memcached/Redis, Kafka, Cassandra/Elastic, Streaming Storm/Spark/Flink, Druid/[Distributed SQL](https://blog.starburstdata.com/prestosql-becomes-trino), ...
+* Cloud - Migration to mix on-premises/private clouds to Azure (Sites) & Google Cloud Platform (Data workloads).
+
 > digital transformation at Walmart and the real-time benifits with using Kafka such as checking inventory, fufillment, security and fraud. https://www.youtube.com/watch?v=9V-dcwORE7g 
 * Machine Learning Development - Incubated migration of OnPrem data to Google Cloud Platform & leverage Managed Cloud Services like BigQuery.
 
 > The Walmart team has been running #cassandra at scale for a long time and are real pros at operations. Great article to learn from. https://twitter.com/PatrickMcFadin/status/1490373516394655745
-
-* Cloud - Migration to mix on-premises/private clouds to Azure (Sites) & Google Cloud Platform (Data workloads).
  
  **Smart Spaces & Things [2020-]:** Presently Platform engineering @ [Acuity Brands](https://www.acuitybrands.com/)
 * Commerce: New AB.com, Tools & Analytics
