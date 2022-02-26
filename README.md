@@ -1,6 +1,6 @@
 1. Improving things, boring & novel.
 2. Related to above #1, empathy to things built in the past (brownfield).
-3. "Stay Hungry. Stay Foolish". (best advice from Steve Jobs, actually sign out message from Whole Earth Catalog)
+3. "Stay Hungry. Stay Foolish". (best advice from Steve Jobs, actually sign off message from Whole Earth Catalog)
 4. Introspective, and driven to continuously improve myself.
 5. I feel an extreme sense of urgency in anything I do.
 6. Avoid back-to-back meetings, Prefer in-person conversations > video calls > phone calls > emails & texts.
