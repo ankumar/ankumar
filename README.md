@@ -56,6 +56,8 @@ Lighting](https://www.acuitybrands.com/who-we-are/acuity-brands-lighting)
   * Developer Portal & Application Delivery  
   * Open source - [Backstage](https://platformengineering.org/platform-tooling) (+ [Notebooks](https://jupyter.org/)) & Argo CD GitOps
  
+---
+
 Archives: https://softwaredevel.blogspot.com/ 
  
 <!--
