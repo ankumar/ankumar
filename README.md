@@ -55,7 +55,9 @@ Lighting](https://www.acuitybrands.com/who-we-are/acuity-brands-lighting)
   * Decision Intelligence - Pricing, Forecasting etc.
   * Developer Portal & Application Delivery  
   * Open source - [Backstage](https://platformengineering.org/platform-tooling) (+ [Notebooks](https://jupyter.org/)) & Argo CD GitOps
-  
+ 
+Archives: https://softwaredevel.blogspot.com/ 
+ 
 <!--
 **ankumar/ankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
