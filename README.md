@@ -22,7 +22,7 @@
 
 ---
 
-> "Wandering is an essential counter-balance to efficiency. You need to employ both. The outsized discoveries – the “non-linear” ones – are highly likely to require wandering." --JeffBezos
+> "Wandering is an essential counter-balance to efficiency. You need to employ both. The outsized discoveries – the “non-linear” ones – are highly likely to require wandering." --Letter to Shareholders, Amazon
 
 ### Work:
 
