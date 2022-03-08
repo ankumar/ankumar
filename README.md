@@ -11,8 +11,8 @@
 > Open standards are the best way to make sure that everybody in the industry is involved in setting the direction of technology in our industry.
 
 - Metadata Management: https://github.com/open-metadata/OpenMetadata (Open Source)
-- Apps/APIs Development: https://github.com/tufan-io/noun-and-verb-src (Private, Open Source soon!)
 - ML Model Development: https://app.chaya.ai/ (Private, Open Source soon!)
+- Apps/APIs Development: https://github.com/tufan-io/noun-and-verb-src (Private, Open Source soon!)
 
 ---
 
