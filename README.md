@@ -8,7 +8,7 @@
 
 8. Love Open Core Model, Collaborating outside the company
  
-> Going far, Together, Open standards are the best way to make sure that everybody in the industry is involved in setting the direction of technology in our industry.
+> Going far, Together: Open standards are the best way to make sure that everybody in the industry is involved in setting the direction of technology in our industry.
 
 - Metadata Management: https://github.com/open-metadata/OpenMetadata (Open Source)
 - ML Model Development & Deployment: https://app.chaya.ai/ (Private, Open Source soon!)
