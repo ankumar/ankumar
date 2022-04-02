@@ -22,8 +22,8 @@
 
 > "Wandering is an essential counter-balance to efficiency. You need to employ both. The outsized discoveries – the “non-linear” ones – are highly likely to require wandering." --Letter to Amazon Shareholders
 
-**Messenger, Mail & SoftSwitch [1997-2010]:
-** **Yahoo!**, Sylantro Systems & Lucent **Bell Labs**, Large Enterprise (Part of AT&T >1M Workforce)
+**Messenger, Mail & SoftSwitch [1997-2010]:** 
+**Yahoo!**, Sylantro Systems & Lucent **Bell Labs**, Large Enterprise (Part of AT&T >1M Workforce)
 * My Software Driven World started with [Switching software](https://freeswitch.org/confluence/display/FREESWITCH/Glossary#Glossary-Softswitch), IP protocols development (OverLAN project / X.25 -> TCP/IP -> VoIP)
 * Startup [Sylantro Systems (Fun fact: Company Strategy on a Monopoly board)](https://www.networkworld.com/article/2272062/broadsoft-acquires-sylantro-as-voip-market-consolidates.html), Tech Stack - IETF Standards/CORBA,WSDL, [C++](https://awesomecpp.com/) & JAVA,/Talarian SmartSockets/TimesTen In-Memory DB/Solaris
 * Worked on Desktop/Web/Mobile [Messenger](https://en.wikipedia.org/wiki/Yahoo!_Messenger) & [Mail](https://en.wikipedia.org/wiki/Yahoo!_Mail) consumer Products Platform & backend at Yahoo!, pioneer of the early Internet.
