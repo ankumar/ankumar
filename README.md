@@ -15,7 +15,7 @@
 
 ---
 
-- [About, Trails, Food, Music, ...](https://github.com/ankumar/Fun-Stuff) 
+- [About, Trails, Food, ...](https://github.com/ankumar/Fun-Stuff) 
 
 ---
 
