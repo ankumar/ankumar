@@ -1,4 +1,4 @@
-1. Improving things, boring & novel.
+1. Improving things, boring & novel (greenfield).
 2. Related to above #1, empathy to things built in the past (brownfield).
 3. "Stay Hungry. Stay Foolish". (sign off message from Whole Earth Catalog & from Steve Jobs)
 4. Introspective, and driven to continuously improve myself.
