@@ -19,7 +19,7 @@
 
 ---
 
-Archives: https://softwaredevel.blogspot.com/ 
+Archives, 2008-2012 exploring Open source software: https://softwaredevel.blogspot.com/ 
  
 <!--
 **ankumar/ankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
