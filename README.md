@@ -7,7 +7,7 @@
 
 ---
 
-- [About, Trails, Food, ...](https://github.com/ankumar/Fun-Stuff) 
+- [Work, Trails, Food, ...](https://github.com/ankumar/Fun-Stuff) 
 
 ---
 
