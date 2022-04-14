@@ -4,7 +4,6 @@
 4. Introspective, and driven to continuously improve myself.
 5. I feel an extreme sense of urgency in anything I do.
 6. Avoid back-to-back meetings, Prefer in-person conversations > video calls > phone calls > emails & texts.
-7. Open software design enabling exchange of ideas.
 
 ---
 
@@ -12,8 +11,8 @@
 
 ---
 
-Open Core Model, Collaborating outside the company
-
+- Open software design enabling exchange of ideas.
+- Open Core Model, Collaborating outside the company.
 > Going far, Together: Open standards are the best way to make sure that everybody in the industry is involved in setting the direction of technology in our industry.
 
 - Metadata Management: https://github.com/open-metadata/OpenMetadata (Open Source)
