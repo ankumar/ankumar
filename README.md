@@ -22,7 +22,9 @@ Open software design enabling exchange of ideas
 - ML Model Development/Deployment: https://app.chaya.ai/ (Private, Open Source soon!)
 - Apps/APIs Development: https://github.com/tufan-io/noun-and-verb-src (Private, Open Source soon!)
 
-Archives, 2008-2012 logging Open source software: https://softwaredevel.blogspot.com/ 
+> Archives, 2008-2012 
+
+- Logging Open source software: https://softwaredevel.blogspot.com/ 
  
 <!--
 **ankumar/ankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
