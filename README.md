@@ -22,7 +22,7 @@ Open software design enabling exchange of ideas
 - ML Model Development/Deployment: https://app.chaya.ai/ (Private, Open Source soon!)
 - Apps/APIs Development: https://github.com/tufan-io/noun-and-verb-src (Private, Open Source soon!)
 
-> Archives, 2008-2012 
+> Archives, 2008-2012 (@ Yahoo!) 
 
 - Logging Open source software: https://softwaredevel.blogspot.com/ 
  
