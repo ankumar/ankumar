@@ -1,9 +1,9 @@
-1. Improving things, boring & novel (greenfield).
-2. Related to above #1, empathy to things built in the past (brownfield).
+1. Improving Things, Boring & Novel (Greenfield).
+2. Related to above #1, empathy to Things built in the past (Brownfield).
 3. "Stay Hungry. Stay Foolish". (_sign off message from whole earth catalog & from steve jobs_)
-4. Introspective, and driven to continuously improve myself.
-5. I feel an extreme sense of urgency in anything We do.
-6. Avoid back-to-back meetings, Prefer in-person conversations > video calls > phone calls > emails & texts.
+4. Introspective, and Driven to continuously Improve myself.
+5. I feel an extreme sense of urgency in Anything I(We) do.
+6. Avoid back-to-back meetings, Prefer in-person* conversations > Video calls > Phone calls > Emails & Texts.
 
 ---
 
