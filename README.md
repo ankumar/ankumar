@@ -7,10 +7,6 @@
 
 ---
 
-- [Work, Trails, Food, ...](https://github.com/ankumar/Fun-Stuff) 
-
----
-
 [Developer Problem Spaces](https://docs.google.com/document/d/1b36vcpRMI5aIp8N2j_cVvhiv8OwDRGDxPDr2bJzcCGA/edit?usp=sharing)
 
 > Going Far, Together: Open standards are the best way to make sure that everybody in the industry is involved in setting the direction of technology in our industry.
@@ -19,6 +15,10 @@
 2. ML Model Development/Deployment: https://app.chaya.ai/ (Private, Open Source soon!)
 
 3. Apps/APIs Development: https://github.com/tufan-io/noun-and-verb-src (Private, Open Source soon!)
+ 
+- [Work, Trails, Food, ...](https://github.com/ankumar/Fun-Stuff) 
+
+---
  
 <!--
 **ankumar/ankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
