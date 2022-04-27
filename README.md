@@ -1,3 +1,5 @@
+My User Manual:
+
 1. Improving Things, Boring & Novel (Greenfield).
 2. Related to above #1, empathy to Things built in the past (Brownfield).
 3. "Stay Hungry. Stay Foolish". (_sign off message from whole earth catalog & from steve jobs_)
