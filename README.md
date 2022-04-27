@@ -15,10 +15,12 @@
 2. ML Model Development/Deployment: https://app.chaya.ai/ (Private, Open Source soon!)
 
 3. Apps/APIs Development: https://github.com/tufan-io/noun-and-verb-src (Private, Open Source soon!)
- 
-- [Work, Trails, Food, ...](https://github.com/ankumar/Fun-Stuff) 
 
 ---
+
+- [Work, Trails, Food, ...](https://github.com/ankumar/Fun-Stuff) 
+
+
  
 <!--
 **ankumar/ankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
