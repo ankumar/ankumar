@@ -14,9 +14,9 @@ User Manual:
 > Going Far, Together: Open standards are the best way to make sure that everybody in the industry is involved in setting the direction of technology in our industry.
 1. Metadata Management: https://github.com/open-metadata/OpenMetadata (Open Source)
  
-2. ML Model Development/Deployment: https://app.chaya.ai/ (Private, Open Source soon!)
+2. ML Model Development/Deployment: https://app.chaya.ai/ 
 
-3. Apps/APIs Development: https://github.com/tufan-io/noun-and-verb-docs/tree/main/docs/ (Private, Open Source soon!)
+3. Apps/APIs Development: https://github.com/tufan-io/noun-and-verb-docs/tree/main/docs/ 
 
 ---
 
