@@ -5,7 +5,7 @@ User Manual:
 3. "Stay Hungry. Stay Foolish". (_sign off message from whole earth catalog & from steve jobs_)
 4. Introspective, and Driven to continuously Improve myself.
 5. I feel an extreme sense of urgency in Anything I(We) do.
-6. Avoid back-to-back meetings, Prefer in-person* conversations > Video calls > Phone calls > Emails & Texts.
+6. Avoid back-to-back meetings, Prefer in-person conversations > Video calls > Phone calls > Emails & Texts.
 
 ---
 
