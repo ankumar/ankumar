@@ -16,7 +16,7 @@ User Manual:
  
 2. ML Model Development/Deployment: https://app.chaya.ai/ 
 
-3. Apps/APIs Development: https://github.com/tufan-io/noun-and-verb-docs/tree/main/docs/ 
+3. Apps/APIs Development: https://tufan-io.github.io/noun-and-verb-docs/
 
 ---
 
