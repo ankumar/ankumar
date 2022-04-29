@@ -12,7 +12,7 @@ User Manual:
 [Developer Problem Spaces](https://docs.google.com/document/d/1b36vcpRMI5aIp8N2j_cVvhiv8OwDRGDxPDr2bJzcCGA/edit?usp=sharing)
 
 > Going Far, Together: Open standards are the best way to make sure that everybody in the industry is involved in setting the direction of technology in our industry.
-1. Metadata Management: https://github.com/open-metadata/OpenMetadata (Open Source)
+1. Metadata Management: https://open-metadata.org/ (Open Source)
  
 2. ML Model Development/Deployment: https://app.chaya.ai/ 
 
