@@ -2,9 +2,9 @@
 
 [Developer Problem Spaces](https://docs.google.com/document/d/1b36vcpRMI5aIp8N2j_cVvhiv8OwDRGDxPDr2bJzcCGA/edit?usp=sharing)
  
-1. ML Model Development/Deployment: https://app.chaya.ai/ 
+1. Apps/APIs Development: https://tufan-io.github.io/noun-and-verb-docs/
 
-2. Apps/APIs Development: https://tufan-io.github.io/noun-and-verb-docs/
+2. ML Model Development/Deployment: https://app.chaya.ai/ 
 
 3. Metadata Management: https://open-metadata.org/ (Open Source) 
 
