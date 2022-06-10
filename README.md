@@ -1,5 +1,3 @@
-> Going Far, Together: Open standards are the best way to make sure that everybody in the industry is involved in setting the direction of technology in our industry.
-
 [Developer Problem Spaces](https://docs.google.com/document/d/1b36vcpRMI5aIp8N2j_cVvhiv8OwDRGDxPDr2bJzcCGA/edit?usp=sharing)
  
 1. Mobile/Web/API Application Development: https://tufan-io.github.io/noun-and-verb-docs/
