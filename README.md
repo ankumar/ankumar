@@ -8,7 +8,7 @@
 
 3. Metadata Management: https://open-metadata.org/ (Open Source) 
 
-[GitHub Sponsors](https://github.com/ankumar?tab=sponsoring)
+[GitHub Sponsoring](https://github.com/ankumar?tab=sponsoring)
 
 ## 
 
