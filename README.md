@@ -1,3 +1,5 @@
+## Community
+
 [Developer Problem Spaces](https://docs.google.com/document/d/1b36vcpRMI5aIp8N2j_cVvhiv8OwDRGDxPDr2bJzcCGA/edit?usp=sharing)
  
 1. API Application Development: https://nounandverb.io/
@@ -6,7 +8,9 @@
 
 3. Metadata Management: https://open-metadata.org/ (Open Source) 
 
----
+[GitHub Sponsors]()
+
+## 
 
 - [Work, Trails, Food, Music, Shoes, ...](https://github.com/ankumar/Fun-Stuff) 
 
