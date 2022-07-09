@@ -8,6 +8,8 @@
 
 3. Metadata Management: https://open-metadata.org/ (Open Source) 
 
+[OpenMetadata – Open Source Data Catalog - What makes it special?](https://www.youtube.com/watch?v=6_h3ZJ1x7zE)
+
 [GitHub Sponsoring](https://github.com/ankumar?tab=sponsoring)
 
 ## About Me
