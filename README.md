@@ -8,7 +8,7 @@ Working with Startups, Former colleagues & close friends:
 
 2. ML Model Development/Deployment: https://app.chaya.ai/ 
 
-3. Metadata Management: https://open-metadata.org/ / [OpenMetadata – Open Source Data Catalog - What makes it special?](https://www.youtube.com/watch?v=6_h3ZJ1x7zE)
+3. Metadata Management: https://cloud.getcollate.io/ / https://open-metadata.org/ / [OpenMetadata – Open Source Data Catalog - What makes it special?](https://www.youtube.com/watch?v=6_h3ZJ1x7zE)
 
 [GitHub Sponsoring](https://github.com/ankumar?tab=sponsoring)
 
