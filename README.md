@@ -2,7 +2,7 @@
 
 [Developer Problem Spaces](https://docs.google.com/document/d/1b36vcpRMI5aIp8N2j_cVvhiv8OwDRGDxPDr2bJzcCGA/edit?usp=sharing)
 
-- Working with Startups, Former colleagues & close friends:
+- Working with close friends, Former colleagues & Startups:
 1. API Application Development: https://nounandverb.io/
 2. ML Model Development/Deployment: https://app.chaya.ai/ 
 3. Metadata Management: https://cloud.getcollate.io/ / https://open-metadata.org/ / [OpenMetadata – Open Source Data Catalog - What makes it special?](https://www.youtube.com/watch?v=6_h3ZJ1x7zE)
