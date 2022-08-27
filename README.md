@@ -1,5 +1,7 @@
 ## Communities
 
+- [GitHub Sponsoring](https://github.com/ankumar?tab=sponsoring)
+
 [Developer Problem Spaces](https://docs.google.com/document/d/1b36vcpRMI5aIp8N2j_cVvhiv8OwDRGDxPDr2bJzcCGA/edit?usp=sharing)
 
 - Working with close friends, former colleagues & startups:
@@ -11,8 +13,6 @@
 
 - SaaS: https://cloud.getcollate.io/
 - Open Source: https://open-metadata.org/ / 
-
-- [GitHub Sponsoring](https://github.com/ankumar?tab=sponsoring)
 
 ## About Me
 
