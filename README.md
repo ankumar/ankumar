@@ -1,6 +1,6 @@
 ## Communities
 
-[Problem Spaces](https://docs.google.com/document/d/1b36vcpRMI5aIp8N2j_cVvhiv8OwDRGDxPDr2bJzcCGA/edit?usp=sharing). Working with close friends, former colleagues & startups:
+[Problem Spaces](https://docs.google.com/document/d/1b36vcpRMI5aIp8N2j_cVvhiv8OwDRGDxPDr2bJzcCGA/edit?usp=sharing). With close friends, former colleagues & startups:
 
 * Metadata Management: 
 [OpenMetadata - What makes it special?](https://www.youtube.com/watch?v=6_h3ZJ1x7zE) / SaaS: https://cloud.getcollate.io/ / Open Source: https://open-metadata.org/ 
