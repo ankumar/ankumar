@@ -1,6 +1,6 @@
 ## Communities
 
-[Problem Spaces](https://docs.google.com/document/d/1b36vcpRMI5aIp8N2j_cVvhiv8OwDRGDxPDr2bJzcCGA/edit?usp=sharing) - with close friends, former colleagues & startups:
+[Problem Spaces](https://docs.google.com/document/d/1b36vcpRMI5aIp8N2j_cVvhiv8OwDRGDxPDr2bJzcCGA/edit?usp=sharing) - side projects with close friends, former colleagues & startups:
 
 
 Archives:
