@@ -12,8 +12,6 @@ Archives:
 
 - [GitHub Sponsoring](https://github.com/ankumar?tab=sponsoring)
 - [Work, Trails, Food, Music, Shoes, ...](https://github.com/ankumar/Fun-Stuff) 
-
-
  
 <!--
 **ankumar/ankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
