@@ -1,3 +1,13 @@
+![image](https://user-images.githubusercontent.com/658791/209478097-d5511a4b-57dd-472c-8ded-234c8f5d69e4.png)
+
+Jenga - named after the Swahili for ‘build’
+
+![image](https://user-images.githubusercontent.com/658791/209478115-2fefbd42-26ce-4552-be01-bdc84a109277.png)
+
+
+The loop of progress - The best ideas are born from years of iterative refinement.
+"A version of this is even true for people: the more willing we are to reevaluate our views and admit mistakes, the faster we learn and the further we can improve."
+
 ## Content & Commerce 
 ![image](https://user-images.githubusercontent.com/658791/209477987-20ccef0c-c9bf-4e02-8198-b8d8846325e8.png)
 Personalization with an image, ie your dog and / or custom e-gift messaging.
