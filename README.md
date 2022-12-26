@@ -1,6 +1,6 @@
 ## Content & Commerce 
 ![image](https://user-images.githubusercontent.com/658791/209477987-20ccef0c-c9bf-4e02-8198-b8d8846325e8.png)
-Personalization with an image, ie your dog and / or custom e-gift messaging.
+Personalization with Text, an image, ie your dog and / or custom e-gift messaging.
 
 
 ## Communities
