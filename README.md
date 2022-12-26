@@ -1,7 +1,3 @@
-![image](https://user-images.githubusercontent.com/658791/209478097-d5511a4b-57dd-472c-8ded-234c8f5d69e4.png)
-
-Jenga - named after the Swahili for ‘build’
-
 ## Content & Commerce 
 ![image](https://user-images.githubusercontent.com/658791/209477987-20ccef0c-c9bf-4e02-8198-b8d8846325e8.png)
 Personalization with an image, ie your dog and / or custom e-gift messaging.
