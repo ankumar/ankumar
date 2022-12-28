@@ -5,7 +5,7 @@ Personalization with Text, Audio/Video, an image ie your dog and / or custom e-g
 ## Communities
 
 [Problem Spaces](https://docs.google.com/document/d/1b36vcpRMI5aIp8N2j_cVvhiv8OwDRGDxPDr2bJzcCGA/edit?usp=sharing) - side projects with friends, former colleagues & startups:
-* https://nounandverb.io/
+* Backend Development/Deployment - https://nounandverb.io/
 
 Archives:
 * https://webrtc.org/ 
