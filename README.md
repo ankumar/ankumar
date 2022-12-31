@@ -8,9 +8,9 @@ Personalization with Text, Audio/Video, an image ie your dog and / or custom e-g
 
 [Problem Spaces](https://docs.google.com/document/d/1b36vcpRMI5aIp8N2j_cVvhiv8OwDRGDxPDr2bJzcCGA/edit?usp=sharing) - side projects with friends, former colleagues & startups:
 - [GitHub Sponsoring](https://github.com/ankumar?tab=sponsoring)
-- Advisor: Backend Development/Deployment, https://nounandverb.io/
-- Advisor: ML Model Development/Deployment, https://app.chaya.ai/ (Archived)
-- Contributor: https://webrtc.org/ 
+- Backend Development/Deployment, https://nounandverb.io/
+- ML Model Development/Deployment, https://app.chaya.ai/ (Archived)
+- https://webrtc.org/ 
 
 ---
 
