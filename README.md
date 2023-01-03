@@ -7,7 +7,7 @@ Personalization with Text, Audio/Video, an image ie your dog and / or custom e-g
 ![image](https://user-images.githubusercontent.com/658791/210153625-79f1a18e-60f3-49d7-945d-4bb5c50d3409.png)
 
 [Problem Spaces](https://docs.google.com/document/d/1b36vcpRMI5aIp8N2j_cVvhiv8OwDRGDxPDr2bJzcCGA/edit?usp=sharing) - side projects with friends, former colleagues & startups:
-- Transformer model, Personalize, Recommend, and search content POC.
+- Personalize, Recommend, and search content, Transformer model POC.
 - Backend Development/Deployment, https://nounandverb.io/
 - ML Model Development/Deployment, https://app.chaya.ai/ (Shutdown)
 - GitHub Sponsoring, https://github.com/ankumar?tab=sponsoring
