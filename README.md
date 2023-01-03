@@ -10,7 +10,7 @@ Personalization with Text, Audio/Video, an image ie your dog and / or custom e-g
 - Transformer model, Product Recommandation PoC 
 - Backend Development/Deployment, https://nounandverb.io/
 - ML Model Development/Deployment, https://app.chaya.ai/ (Shutdown)
-- [GitHub Sponsoring](https://github.com/ankumar?tab=sponsoring)
+- GitHub Sponsoring, https://github.com/ankumar?tab=sponsoring
 - Real-time communication for the web, https://webrtc.org/ 
 
 ---
