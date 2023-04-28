@@ -4,10 +4,7 @@
 
 [Problem Spaces](https://docs.google.com/document/d/1b36vcpRMI5aIp8N2j_cVvhiv8OwDRGDxPDr2bJzcCGA/edit?usp=sharing) - side projects with friends, former colleagues, open source & startups:
 
-![image](https://user-images.githubusercontent.com/658791/209477987-20ccef0c-c9bf-4e02-8198-b8d8846325e8.png)
-Personalization with Text, Audio/Video, an image ie your dog and / or custom e-gifting messaging.
-
-- Personalize, Recommend, and search content, Transformer model POC, [Foundation models](https://docs.google.com/document/d/1POj8OKdKRYYnhPF_OwPVpCnv-xVGkYCS0Hw_OmOUNRo/edit?usp=sharing)
+- Personalization with Text, Audio/Video, an image ie your dog and / or custom e-gifting messaging. Transformer model POC, [documenting foundation models](https://docs.google.com/document/d/1POj8OKdKRYYnhPF_OwPVpCnv-xVGkYCS0Hw_OmOUNRo/edit?usp=sharing)
 
 - Application Development, https://nounandverb.io/
 
