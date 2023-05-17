@@ -8,7 +8,7 @@
 
 - Application Development, https://nounandverb.io/
 
-- ML Model Development, https://app.chaya.ai/ (Shutdown)
+- ML Model Development, https://app.chaya.ai/ (shutdown)
 
 - GitHub Sponsoring, https://github.com/ankumar?tab=sponsoring
 
