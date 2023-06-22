@@ -4,15 +4,15 @@
 
 [Problem Spaces](https://docs.google.com/document/d/1b36vcpRMI5aIp8N2j_cVvhiv8OwDRGDxPDr2bJzcCGA/edit?usp=sharing) - side projects with friends, open source, novel ideas & startups:
 
-- Personalization with Text, Audio/Video, an image ie your dog and / or custom e-gifting messaging. Transformer model POC, [documenting foundation models](https://docs.google.com/document/d/1POj8OKdKRYYnhPF_OwPVpCnv-xVGkYCS0Hw_OmOUNRo/edit?usp=sharing)
-
-- Application Development, https://nounandverb.io/
+- App Development, https://nounandverb.io/
 
 - ML Model Development, https://app.chaya.ai/ (shutdown)
 
 - GitHub Sponsoring, https://github.com/ankumar?tab=sponsoring
 
 - Real-time communication for the web, https://webrtc.org/ 
+
+- Personalization with Text, Audio/Video, an image ie your dog and / or custom e-gifting messaging. Transformer model POC, [documenting foundation models](https://docs.google.com/document/d/1POj8OKdKRYYnhPF_OwPVpCnv-xVGkYCS0Hw_OmOUNRo/edit?usp=sharing)
 
 ---
 
