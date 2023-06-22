@@ -12,7 +12,7 @@
 
 - Real-time communication for the web, https://webrtc.org/ 
 
-- Text, Audio/Video, an image ie your dog, an example usecase custom e-gifting messaging. Transformer model POC, [documenting foundation models](https://docs.google.com/document/d/1POj8OKdKRYYnhPF_OwPVpCnv-xVGkYCS0Hw_OmOUNRo/edit?usp=sharing)
+- Text, Audio/Video, an image ie your dog, an example usecase custom e-gifting messaging. Learning by [documenting foundation models](https://docs.google.com/document/d/1POj8OKdKRYYnhPF_OwPVpCnv-xVGkYCS0Hw_OmOUNRo/edit?usp=sharing)
 
 ---
 
