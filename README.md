@@ -4,8 +4,6 @@
 
 - ML Model Development, https://app.chaya.ai/ (shutdown)
 
-- GitHub Sponsoring, https://github.com/ankumar?tab=sponsoring
-
 - Real-time communication for the web, https://webrtc.org/ 
 
 - Text, an image ie your dog, Audio/Video. An example usecase custom e-gifting messaging. Learning/POC by [Documenting foundation models](https://docs.google.com/document/d/1POj8OKdKRYYnhPF_OwPVpCnv-xVGkYCS0Hw_OmOUNRo/edit?usp=sharing)
