@@ -1,12 +1,10 @@
 [Problem Spaces](https://docs.google.com/document/d/1b36vcpRMI5aIp8N2j_cVvhiv8OwDRGDxPDr2bJzcCGA/edit?usp=sharing) - side projects with friends, open source, novel ideas & startups:
 
-- App Development, https://nounandverb.io/
-
-- ML Model Development, https://app.chaya.ai/ (shutdown)
-
-- Real-time communication for the web, https://webrtc.org/ 
-
 - Text, an image ie your dog, Audio/Video. An example usecase custom e-gifting messaging. Learning/POC by [Documenting foundation models](https://docs.google.com/document/d/1POj8OKdKRYYnhPF_OwPVpCnv-xVGkYCS0Hw_OmOUNRo/edit?usp=sharing)
+  
+- ML Model Development, https://app.chaya.ai/ (shutdown)
+- App Development, https://nounandverb.io/
+- Real-time communication for the web, https://webrtc.org/ 
 
 ---
 
