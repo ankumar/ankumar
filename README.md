@@ -4,7 +4,7 @@
   
 - ML Model Development, https://app.chaya.ai/ (shutdown)
 - App Development, https://nounandverb.io/
-- Real-time communication for the web, https://webrtc.org/ 
+- Real-time communication for the web, https://webrtc.org/ (Contributor)
 
 ---
 
