@@ -2,7 +2,7 @@
 
 - Text, an image ie your dog, Audio/Video. An example usecase custom e-gifting messaging. Learning [Foundation models](https://docs.google.com/document/d/1POj8OKdKRYYnhPF_OwPVpCnv-xVGkYCS0Hw_OmOUNRo/edit?usp=sharing)
   
-- ML Model Development, https://app.chaya.ai/ ((Contributor, now shutdown)
+- ML Model Development, https://app.chaya.ai/ ((Contributor, retired)
 - App Development, https://nounandverb.io/ (Contributor)
 - Real-time communication for the web, https://webrtc.org/ (Contributor)
 
