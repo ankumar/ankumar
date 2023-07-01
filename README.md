@@ -1,6 +1,7 @@
 [Problem Spaces](https://docs.google.com/document/d/1b36vcpRMI5aIp8N2j_cVvhiv8OwDRGDxPDr2bJzcCGA/edit?usp=sharing) - side projects & open source:
 
 - Learning [Foundation models](https://docs.google.com/document/d/1POj8OKdKRYYnhPF_OwPVpCnv-xVGkYCS0Hw_OmOUNRo/edit?usp=sharing)
+  - OpenAPI Specs
   - An example usecase custom e-gifting messaging: Text, an image ie your dog + Audio/Video. 
 
 - ML Model Development, https://app.chaya.ai/ (Contributor;retired)
