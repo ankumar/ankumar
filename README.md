@@ -1,7 +1,8 @@
 [Problem Spaces](https://docs.google.com/document/d/1b36vcpRMI5aIp8N2j_cVvhiv8OwDRGDxPDr2bJzcCGA/edit?usp=sharing) - side projects & open source:
 
-- Text, an image ie your dog, Audio/Video. An example usecase custom e-gifting messaging. Learning [Foundation models](https://docs.google.com/document/d/1POj8OKdKRYYnhPF_OwPVpCnv-xVGkYCS0Hw_OmOUNRo/edit?usp=sharing)
-  
+- Learning [Foundation models](https://docs.google.com/document/d/1POj8OKdKRYYnhPF_OwPVpCnv-xVGkYCS0Hw_OmOUNRo/edit?usp=sharing)
+  - Text, an image ie your dog, Audio/Video. An example usecase custom e-gifting messaging. 
+
 - ML Model Development, https://app.chaya.ai/ (Contributor;retired)
 - App Development, https://nounandverb.io/ (Contributor)
 - Real-time communication for the web, https://webrtc.org/ (Contributor)
