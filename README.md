@@ -6,7 +6,8 @@
 
 - ML Model Development, https://app.chaya.ai/ (Contributor;retired)
 - App Development, https://nounandverb.io/ (Contributor)
-- Real-time communication for the web, https://webrtc.org/ (Contributor)
+
+Real-time communication for the web, https://webrtc.org/ (Contributor)
 
 ---
 
