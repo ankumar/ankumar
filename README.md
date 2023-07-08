@@ -5,7 +5,7 @@
   - Text + Image (ie your dog) + Audio/Video, Custom e-gifting messaging?
 
 - ML Model Development, https://app.chaya.ai/ (Contributor;archived)
-- App Development, https://nounandverb.io/ (Contributor)
+- App Development, https://nounandverb.io/ 
 
 Real-time communication for the web, https://webrtc.org/ (Contributor)
 
