@@ -1,11 +1,7 @@
 [Problem Spaces](https://docs.google.com/document/d/1b36vcpRMI5aIp8N2j_cVvhiv8OwDRGDxPDr2bJzcCGA/edit?usp=sharing) - side projects
 
-- Learning [Foundation models](https://docs.google.com/document/d/1POj8OKdKRYYnhPF_OwPVpCnv-xVGkYCS0Hw_OmOUNRo/edit?usp=sharing) with USE CASES
-  - [GetJavelin](https://www.getjavelin.io/)
-  - ["Natural Language APIs"](https://docs.google.com/document/d/1E-sZ60oS5Iw8rZaxImInCdERm4ZNhBlfqJWpGbfT9KQ/edit?usp=sharing) 
-  - Product Promotions 
-  - Multimodal, Text + Image (ie your dog) + Audio/Video, Custom e-gifting messaging?
-
+- [GetJavelin](https://www.getjavelin.io/)
+  
 - ML Model Development, https://app.chaya.ai/ (archived)
 
 - App Development, https://nounandverb.io/ 
@@ -15,6 +11,11 @@ Real-time communication for the web, https://webrtc.org/ (Contributor)
 ---
 
 ## About Me
+
+- Learning [Foundation models](https://docs.google.com/document/d/1POj8OKdKRYYnhPF_OwPVpCnv-xVGkYCS0Hw_OmOUNRo/edit?usp=sharing) with USE CASES
+  - ["Natural Language APIs"](https://docs.google.com/document/d/1E-sZ60oS5Iw8rZaxImInCdERm4ZNhBlfqJWpGbfT9KQ/edit?usp=sharing) 
+  - Product Promotions 
+  - Multimodal, Text + Image (ie your dog) + Audio/Video, Custom e-gifting messaging?
 
 - [Work, Trails, Food, Music, Shoes, ...](https://github.com/ankumar/Fun-Stuff) 
  
