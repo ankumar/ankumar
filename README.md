@@ -18,7 +18,7 @@
 
 - App Development, https://nounandverb.io/ 
 
-Real-time communication for the web, https://webrtc.org/ (Contributor)
+- Real-time communication for the web, https://webrtc.org/ (Contributor)
 
 - [Work, Trails, Food, Music, Shoes, ...](https://github.com/ankumar/Fun-Stuff) 
  
