@@ -1,11 +1,5 @@
 - [GetJavelin](https://www.getjavelin.io/)
   
-- ML Model Development, https://app.chaya.ai/ (archived)
-
-- App Development, https://nounandverb.io/ 
-
-Real-time communication for the web, https://webrtc.org/ (Contributor)
-
 ---
 
 ## About Me
@@ -16,6 +10,12 @@ Real-time communication for the web, https://webrtc.org/ (Contributor)
   - ["Natural Language APIs"](https://docs.google.com/document/d/1E-sZ60oS5Iw8rZaxImInCdERm4ZNhBlfqJWpGbfT9KQ/edit?usp=sharing) 
   - Product Promotions 
   - Multimodal, Text + Image (ie your dog) + Audio/Video, Custom e-gifting messaging?
+
+- ML Model Development, https://app.chaya.ai/ (archived)
+
+- App Development, https://nounandverb.io/ 
+
+Real-time communication for the web, https://webrtc.org/ (Contributor)
 
 - [Work, Trails, Food, Music, Shoes, ...](https://github.com/ankumar/Fun-Stuff) 
  
