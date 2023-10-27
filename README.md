@@ -1,5 +1,7 @@
-- [GetJavelin](https://www.getjavelin.io/)
-  
+- [GetJavelin, Enterprise Grade LLM AI Gateway](https://www.getjavelin.io/)
+  - Robust, Scalable API Gateway for AI-forward Companies
+  - Confidently use LLMs and let us manage access security
+
 ---
 
 ## About Me
