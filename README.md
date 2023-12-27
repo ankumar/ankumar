@@ -1,4 +1,4 @@
-Currently focused on [GetJavelin, Enterprise AI Security Platform](https://www.getjavelin.io/)
+Currently focused on [Javelin, Enterprise AI Security Platform](https://www.getjavelin.io/)
 
 - Robust, Scalable API Gateway for AI-forward Companies
 - Confidently use LLMs and let us manage access security
