@@ -1,9 +1,9 @@
 Currently focused on [Javelin, Enterprise AI Security Platform](https://www.getjavelin.io/)
 
 Prev.
-- Pymnts/Blackhawk Network
-- eCOMM/Walmart Global Tech
-- COMM/Founder TenHands,Yahoo!,Startup,Lucent Bell Labs.
+- Pymnts / Blackhawk Network
+- eCOMM / Walmart Global Tech
+- COMM / Founder TenHands, Yahoo!, Startup, Lucent Bell Labs.
 
 ---
 
