@@ -3,6 +3,12 @@ Currently focused on [GetJavelin, Enterprise Grade LLM AI Gateway](https://www.g
 - Robust, Scalable API Gateway for AI-forward Companies
 - Confidently use LLMs and let us manage access security
 
+Prev. 
+
+- Pymnts/Blackhawk Network
+- eCOMM/Walmart Global Tech
+- COMM/Founder TenHands,Yahoo!,Startup,Lucent Bell Labs.
+
 ---
 
 ## About Me
