@@ -3,11 +3,7 @@ Building [Javelin, Enterprise AI Security Platform](https://www.getjavelin.io/)
 Previously:
 - PYMNTS/Blackhawk Network
 - ECOMM/Walmart Labs
-- WEBRTC/Founder TenHands,Yahoo!,Startup,Lucent Bell Labs
-
-- Building https://getjavelin.io 
-
-Previously PYMNTS/Blackhawk Network, ECOMM/Walmart Labs, WebRTC/Founder TenHands,Yahoo!, Startup, Lucent Bell Labs.
+- WebRTC/Founder TenHands,Yahoo!,Startup,Lucent Bell Labs
 
 ---
 
