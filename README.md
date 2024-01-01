@@ -1,4 +1,4 @@
-Building [Javelin, Enterprise AI Security Platform](https://www.getjavelin.io/)
+Building [Javelin, Open/Closed LLM with security, privacy, and cost controls](https://www.getjavelin.io/)
 
 Previously:
 - PYMNTS/Blackhawk Network
