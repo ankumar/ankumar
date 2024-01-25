@@ -1,6 +1,7 @@
 Building [Javelin, Open/Closed LLM with security, privacy, and cost controls](https://www.getjavelin.io/)
 
 - [Query Any Language Model](https://docs.google.com/document/d/1lL2VEVRs574OecdgTsYz-4ygnEhzJc2y8wgvPjhaW2Y/edit?usp=sharing)
+- [Awesome LLM Architectures](https://github.com/ankumar/awesome-llm-architectures)
 
 Previously:
 - PYMNTS/Blackhawk Network
