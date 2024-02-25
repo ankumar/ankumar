@@ -16,7 +16,6 @@ Previously:
 ## About Me
 - Learning [Foundation models](https://docs.google.com/document/d/1POj8OKdKRYYnhPF_OwPVpCnv-xVGkYCS0Hw_OmOUNRo/edit?usp=sharing)
   - Platforms / Infrastruture
-  - Multimodal, Text + Image (ie your dog) + Audio/Video, Custom e-gifting messaging?
   - ["Natural Language APIs"](https://docs.google.com/document/d/1E-sZ60oS5Iw8rZaxImInCdERm4ZNhBlfqJWpGbfT9KQ/edit?usp=sharing) 
   - Product Promotions 
 
