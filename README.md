@@ -1,10 +1,9 @@
 Building [Javelin, Open/Closed LLM with security, privacy, and cost controls](https://www.getjavelin.io/)
 
-- [Javelin](https://docs.google.com/document/d/1lL2VEVRs574OecdgTsYz-4ygnEhzJc2y8wgvPjhaW2Y/edit?usp=sharing)
-  - [Javelin HuggingChat](https://hf.co/chat/assistant/65bdbbf7f10680b82361aa45)
-  - [Javelin OpenAI GPT (**ChatPlus subscription is needed to access**) ](https://chat.openai.com/g/g-7kq4uSfJ4-javelin) 
+- [Javelin HuggingChat](https://hf.co/chat/assistant/65bdbbf7f10680b82361aa45)
+- [Javelin OpenAI GPT (**ChatPlus subscription is needed to access**) ](https://chat.openai.com/g/g-7kq4uSfJ4-javelin) 
 - [Awesome LLM Architectures](https://github.com/ankumar/awesome-llm-architectures)
-
+- [System Design](https://docs.google.com/document/d/1lL2VEVRs574OecdgTsYz-4ygnEhzJc2y8wgvPjhaW2Y/edit?usp=sharing)
 
 Previously:
 - PYMNTS/Blackhawk Network
