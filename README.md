@@ -25,7 +25,7 @@ Previously:
 
 - Real-time communication for the web, https://webrtc.org/ (Contributor)
 
-Work, Trails, Food, Music, Shoes, ...](https://github.com/ankumar/Fun-Stuff) 
+- [Work, Trails, Food, Music, Shoes, ...](https://github.com/ankumar/Fun-Stuff) 
  
 <!--
 **ankumar/ankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
