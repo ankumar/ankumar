@@ -4,8 +4,6 @@ Building [Javelin, Open/Closed LLM with security, privacy, and cost controls](ht
 - [Awesome LLM Architectures](https://github.com/ankumar/awesome-llm-architectures)
 - [System Design](https://docs.google.com/document/d/1lL2VEVRs574OecdgTsYz-4ygnEhzJc2y8wgvPjhaW2Y/edit?usp=sharing)
 
-## About Me
-
 Previously:
 - PYMNTS/Blackhawk Network
 - ECOMM/Walmart Labs
