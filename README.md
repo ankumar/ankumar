@@ -4,7 +4,7 @@ Building [Javelin, Open/Closed LLM with security, privacy, and cost controls](ht
 
 Previously:
 - PYMNTS/Blackhawk Network
-- ECOMM/Walmart Labs
+- ECOMM/Walmart Labs ([Global Tech](https://tech.walmart.com/content/walmart-global-tech/en_us.html)
 - WebRTC/Founder TenHands,Yahoo!,Startup,Lucent Bell Labs
 
 ---
