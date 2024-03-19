@@ -1,5 +1,5 @@
 Building [Javelin, Open/Closed LLM with security, privacy, and cost controls](https://www.getjavelin.io/)
-- [Javelin HuggingChat](https://hf.co/chat/assistant/65bdbbf7f10680b82361aa45)
+- [Javelin HuggingChat](https://hf.co/chat/assistant/65bdbbf7f10680b82361aa45) (**Create & Share: You can distribute your Assistant with anyone via its URL for free (for the Assistant creator and the end user)**)
 - [Javelin OpenAI GPT (**ChatPlus subscription is needed to access**) ](https://chat.openai.com/g/g-7kq4uSfJ4-javelin) 
 
 --
