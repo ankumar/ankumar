@@ -1,4 +1,4 @@
-Learning [Awesome LLM Architectures](https://github.com/ankumar/awesome-llm-architectures) & Building [Javelin, Open/Closed LLM with security, privacy, and cost controls](https://www.getjavelin.io/)
+Learning [Awesome LLM Architectures](https://github.com/ankumar/awesome-llm-architectures) & Building [Javelin](https://www.getjavelin.io/)
 
 --
 
