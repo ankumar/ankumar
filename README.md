@@ -9,8 +9,8 @@ Previously:
 
 Cohort:
 - [Problem Spaces](https://docs.google.com/document/d/1b36vcpRMI5aIp8N2j_cVvhiv8OwDRGDxPDr2bJzcCGA/edit?usp=sharing)
+- App Development, https://nounandverb.io/
 - ML Model Development, https://app.chaya.ai/ (archived)
-- App Development, https://nounandverb.io/ 
 - Real-time communication for the web, https://webrtc.org/ (Contributor)
 - [Work, Trails, Food, Music, Shoes, ...](https://github.com/ankumar/Fun-Stuff) 
  
