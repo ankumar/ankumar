@@ -2,10 +2,7 @@ Contributing to [Javelin](https://github.com/getjavelin) & [Artificial Programmi
 
 --
 
-Previously:
-- PYMNTS/Blackhawk Network
-- ECOMM/Walmart Labs ([Global Tech](https://tech.walmart.com/content/walmart-global-tech/en_us.html))
-- WebRTC/Founder TenHands,Yahoo!,Startup,Lucent Bell Labs
+Previously PYMNTS/Blackhawk Network, ECOMM/Walmart Labs, WebRTC/Founder TenHands,Yahoo!, Startup, Lucent Bell Labs
 
 Cohort:
 - [Problem Spaces (Long Range)](https://docs.google.com/document/d/1b36vcpRMI5aIp8N2j_cVvhiv8OwDRGDxPDr2bJzcCGA/edit?usp=sharing)
