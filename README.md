@@ -1,4 +1,4 @@
-Contributing to [Javelin](https://github.com/getjavelin) & [Artificial Programming Intelligence](https://github.com/ankumar/awesome-llm-architectures)  
+Currently Contributing to [Javelin](https://github.com/getjavelin) & [Artificial Programming Intelligence](https://github.com/ankumar/awesome-llm-architectures)  
 
 Previously:
 - PYMNTS/Blackhawk Network
