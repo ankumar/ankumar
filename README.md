@@ -1,4 +1,4 @@
-Contributing to [Javelin](https://github.com/getjavelin) & [Awesome LLM Architectures](https://github.com/ankumar/awesome-llm-architectures)
+Contributing to [Javelin](https://github.com/getjavelin) & [Awesome Artificial Programming Intelligence](https://github.com/ankumar/awesome-llm-architectures)
 
 --
 
