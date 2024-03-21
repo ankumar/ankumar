@@ -1,4 +1,4 @@
-Building [Javelin, Open/Closed LLM with security, privacy, and cost controls](https://www.getjavelin.io/)
+Learning [Awesome LLM Architectures](https://github.com/ankumar/awesome-llm-architectures) & Building [Javelin, Open/Closed LLM with security, privacy, and cost controls](https://www.getjavelin.io/)
 
 --
 
@@ -8,7 +8,6 @@ Previously:
 - WebRTC/Founder TenHands,Yahoo!,Startup,Lucent Bell Labs
 
 Cohort:
-- [Awesome LLM Architectures](https://github.com/ankumar/awesome-llm-architectures)
 - [Problem Spaces](https://docs.google.com/document/d/1b36vcpRMI5aIp8N2j_cVvhiv8OwDRGDxPDr2bJzcCGA/edit?usp=sharing)
 - ML Model Development, https://app.chaya.ai/ (archived)
 - App Development, https://nounandverb.io/ 
