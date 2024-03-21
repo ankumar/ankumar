@@ -8,7 +8,7 @@ Previously:
 - WebRTC/Founder TenHands,Yahoo!,Startup,Lucent Bell Labs
 
 Cohort:
-- [Problem Spaces](https://docs.google.com/document/d/1b36vcpRMI5aIp8N2j_cVvhiv8OwDRGDxPDr2bJzcCGA/edit?usp=sharing)
+- [Problem Spaces (Long Range)](https://docs.google.com/document/d/1b36vcpRMI5aIp8N2j_cVvhiv8OwDRGDxPDr2bJzcCGA/edit?usp=sharing)
 - App Development, https://nounandverb.io/
 - ML Model Development, https://app.chaya.ai/ (archived)
 - Real-time communication for the web, https://webrtc.org/ (Contributor)
