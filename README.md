@@ -1,6 +1,4 @@
-Contributing to [Javelin](https://github.com/getjavelin) & [Artificial Programming Intelligence](https://github.com/ankumar/awesome-llm-architectures)
-
---
+Contributing to [Javelin](https://github.com/getjavelin) & [Artificial Programming Intelligence](https://github.com/ankumar/awesome-llm-architectures)  
 
 Previously PYMNTS/Blackhawk Network, ECOMM/Walmart Labs, WebRTC/Founder TenHands,Yahoo!, Startup, Lucent Bell Labs
  
