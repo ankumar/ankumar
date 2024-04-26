@@ -4,7 +4,7 @@ Previously:
 - PYMNTS/ Blackhawk Network
 - ECOMM/ Walmart Labs (Walmart Global Tech)
 - Real-time communication for the web
-  - Founding TenHands, Inc. & Contributor to https://webrtc.org/ 
+  - Founding TenHands, Inc. & Contributor https://webrtc.org/ 
   - Yahoo! Mail/IM
   - Startup Sylantro Systems "SoftSwitch"
   - Lucent Bell Labs
