@@ -1,4 +1,4 @@
-Currently Contributing to [Javelin](https://github.com/getjavelin) & [Programming machine learning](https://github.com/ankumar/awesome-llm-architectures)  
+Currently Contributing to [Javelin](https://github.com/getjavelin), [Fern AI](https://www.fernlabs.ai/) [Programming machine learning](https://github.com/ankumar/awesome-llm-architectures)  
 
 Previously:
 - PYMNTS/ Blackhawk Network
