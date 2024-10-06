@@ -1,4 +1,4 @@
-Currently Contributing to [Javelin](https://github.com/getjavelin), [FernAI](https://www.fernlabs.ai/) & [Programming machine learning](https://github.com/ankumar/awesome-llm-architectures) ([Listen to Deep Dive of this repository](https://notebooklm.google.com/notebook/2c5d3409-08db-4627-8335-a871acb8d6ab/audio))
+Currently Contributing to [Javelin](https://github.com/getjavelin), [FernAI](https://www.fernlabs.ai/) & [Programming machine learning](https://github.com/ankumar/awesome-llm-architectures) ([Listen to Deep Dive](https://notebooklm.google.com/notebook/2c5d3409-08db-4627-8335-a871acb8d6ab/audio))
 
 Previously:
 - PYMNTS/ Blackhawk Network
