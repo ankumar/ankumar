@@ -3,7 +3,7 @@ Currently Contributing to [Javelin](https://github.com/getjavelin), [FernAI](htt
 Previously:
 - PYMNTS/ Blackhawk Network
 - ECOMM/ Walmart Labs (Walmart Global Tech)
-- Real-time communication for the Web
+- RTC(Real-Time Communication) for the Web
   - Founding TenHands, Inc. & Contributor https://webrtc.org/ 
   - Yahoo! Mail/IM
   - Startup Sylantro Systems "SoftSwitch"
